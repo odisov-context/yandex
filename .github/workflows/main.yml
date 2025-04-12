@@ -1,0 +1,23 @@
+name: Update Yandex Feed
+
+on:
+  schedule:
+    # Запускаем каждый день в 3:00 UTC (6:00 МСК)
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+        
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add yandex-feed.xml
+        git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update feed [skip ci]"
+        git push
