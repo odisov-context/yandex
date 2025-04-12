@@ -8,7 +8,9 @@ on:
 
 jobs:
   update-feed:
-    runs-on: ubuntu-latest
+  permissions:
+  contents: write
+  runs-on: ubuntu-latest
     
     steps:
     - name: Checkout repository
