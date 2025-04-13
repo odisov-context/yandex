@@ -20,9 +20,28 @@
       <category id="5" parentId="2">Таргетированная реклама в телеграме</category>
     </categories>
 
+<sets>
+  <!-- Главный набор для соцсетей -->
+  <set id="social">
+    <name>Комплексное продвижение в социальных сетях</name>
+  </set>
+  
+  <!-- Индивидуальные наборы -->
+  <set id="yandex">
+    <name>Яндекс директ</name>
+  </set>
+  <set id="vk">
+    <name>ВКонтакте</name>
+  </set>
+  <set id="tg">
+    <name>Telegram ADS</name>
+  </set>
+</sets>
+
     <offers>
       <!-- Москва Яндекс директ -->
       <offer id="yandex-direct-213">
+<set-ids>yandex</set-ids>
         <name>Алексей - настройка Яндекс директ (Москва)</name>
         <url>https://odisov-context.ru</url>
         <price>55000</price>
@@ -47,6 +66,7 @@
 
       <!-- Москва ВКонтакте -->
       <offer id="vk-target-213">
+<set-ids>social,vk</set-ids>
         <name>Алексей - таргетированная реклама ВКонтакте (Москва)</name>
         <url>https://odisov-context.ru</url>
         <price>35000</price>
@@ -69,6 +89,7 @@
 
       <!-- Москва Telegram ADS -->
       <offer id="tg-ads-213">
+<set-ids>social,tg</set-ids>
         <name>Алексей - реклама в Telegram ADS (Москва)</name>
         <url>https://odisov-context.ru</url>
         <price>25000</price>
@@ -91,6 +112,7 @@
 
       <!-- Санкт петербург Яндекс директ -->
       <offer id="yandex-direct-213">
+<set-ids>yandex</set-ids>
         <name>Алексей - настройка Яндекс директ (Санкт-Петербург)</name>
         <url>https://odisov-context.ru</url>
         <price>55000</price>
@@ -115,6 +137,7 @@
 
       <!-- Санкт петербург ВКонтакте -->
       <offer id="vk-target-213">
+<set-ids>social,vk</set-ids>
         <name>Алексей - таргетированная реклама ВКонтакте (Санкт-Петербург)</name>
         <url>https://odisov-context.ru</url>
         <price>35000</price>
@@ -137,6 +160,7 @@
 
       <!-- Санкт петербург Telegram ADS -->
       <offer id="tg-ads-213">
+<set-ids>social,tg</set-ids>
         <name>Алексей - реклама в Telegram ADS (Санкт-Петербург)</name>
         <url>https://odisov-context.ru</url>
         <price>25000</price>
@@ -159,6 +183,7 @@
 
       <!-- Новосибирск Яндекс директ -->
       <offer id="yandex-direct-213">
+<set-ids>yandex</set-ids>
         <name>Алексей - настройка Яндекс директ (Новосибирск)</name>
         <url>https://odisov-context.ru</url>
         <price>55000</price>
@@ -183,6 +208,7 @@
 
       <!-- Новосибирск ВКонтакте -->
       <offer id="vk-target-213">
+<set-ids>social,vk</set-ids>
         <name>Алексей - таргетированная реклама ВКонтакте (Новосибирск)</name>
         <url>https://odisov-context.ru</url>
         <price>35000</price>
@@ -205,6 +231,7 @@
 
       <!-- Новосибирск Telegram ADS -->
       <offer id="tg-ads-213">
+<set-ids>social,tg</set-ids>
         <name>Алексей - реклама в Telegram ADS (Новосибирск)</name>
         <url>https://odisov-context.ru</url>
         <price>25000</price>
@@ -227,6 +254,7 @@
 
       <!-- Екатеринбург Яндекс директ -->
       <offer id="yandex-direct-213">
+<set-ids>yandex</set-ids>
         <name>Алексей - настройка Яндекс директ (Екатеринбург)</name>
         <url>https://odisov-context.ru</url>
         <price>55000</price>
@@ -251,6 +279,7 @@
 
       <!-- Екатеринбург ВКонтакте -->
       <offer id="vk-target-213">
+<set-ids>social,vk</set-ids>
         <name>Алексей - таргетированная реклама ВКонтакте (Екатеринбург)</name>
         <url>https://odisov-context.ru</url>
         <price>35000</price>
@@ -273,6 +302,7 @@
 
       <!-- Екатеринбург Telegram ADS -->
       <offer id="tg-ads-213">
+<set-ids>social,tg</set-ids>
         <name>Алексей - реклама в Telegram ADS (Екатеринбург)</name>
         <url>https://odisov-context.ru</url>
         <price>25000</price>
@@ -295,6 +325,7 @@
 
       <!-- Казань Яндекс директ -->
       <offer id="yandex-direct-213">
+<set-ids>yandex</set-ids>
         <name>Алексей - настройка Яндекс директ (Казань)</name>
         <url>https://odisov-context.ru</url>
         <price>55000</price>
@@ -319,6 +350,7 @@
 
       <!-- Казань ВКонтакте -->
       <offer id="vk-target-213">
+<set-ids>social,vk</set-ids>
         <name>Алексей - таргетированная реклама ВКонтакте (Казань)</name>
         <url>https://odisov-context.ru</url>
         <price>35000</price>
@@ -341,6 +373,7 @@
 
       <!-- Казань Telegram ADS -->
       <offer id="tg-ads-213">
+<set-ids>social,tg</set-ids>
         <name>Алексей - реклама в Telegram ADS (Казань)</name>
         <url>https://odisov-context.ru</url>
         <price>25000</price>
@@ -363,6 +396,7 @@
 
       <!-- Нижний Новогород Яндекс директ -->
       <offer id="yandex-direct-213">
+<set-ids>yandex</set-ids>
         <name>Алексей - настройка Яндекс директ (Нижний-Новогород)</name>
         <url>https://odisov-context.ru</url>
         <price>55000</price>
@@ -387,6 +421,7 @@
 
       <!-- Нижний Новогород ВКонтакте -->
       <offer id="vk-target-213">
+<set-ids>social,vk</set-ids>
         <name>Алексей - таргетированная реклама ВКонтакте (Нижний-Новогород)</name>
         <url>https://odisov-context.ru</url>
         <price>35000</price>
@@ -409,6 +444,7 @@
 
       <!-- Нижний Новогород Telegram ADS -->
       <offer id="tg-ads-213">
+<set-ids>social,tg</set-ids>
         <name>Алексей - реклама в Telegram ADS (Нижний Новогород)</name>
         <url>https://odisov-context.ru</url>
         <price>25000</price>
@@ -431,6 +467,7 @@
 
       <!-- Челябинск Яндекс директ -->
       <offer id="yandex-direct-213">
+<set-ids>yandex</set-ids>
         <name>Алексей - настройка Яндекс директ (Челябинск)</name>
         <url>https://odisov-context.ru</url>
         <price>55000</price>
@@ -455,6 +492,7 @@
 
       <!-- Челябинск ВКонтакте -->
       <offer id="vk-target-213">
+<set-ids>social,vk</set-ids>
         <name>Алексей - таргетированная реклама ВКонтакте (Челябинск)</name>
         <url>https://odisov-context.ru</url>
         <price>35000</price>
@@ -477,6 +515,7 @@
 
       <!-- Челябинск Telegram ADS -->
       <offer id="tg-ads-213">
+<set-ids>social,tg</set-ids>
         <name>Алексей - реклама в Telegram ADS (Челябинск)</name>
         <url>https://odisov-context.ru</url>
         <price>25000</price>
@@ -499,6 +538,7 @@
 
       <!-- Самара Яндекс директ -->
       <offer id="yandex-direct-213">
+<set-ids>yandex</set-ids>
         <name>Алексей - настройка Яндекс директ (Самара)</name>
         <url>https://odisov-context.ru</url>
         <price>55000</price>
@@ -523,6 +563,7 @@
 
       <!-- Самара ВКонтакте -->
       <offer id="vk-target-213">
+<set-ids>social,vk</set-ids>
         <name>Алексей - таргетированная реклама ВКонтакте (Самара)</name>
         <url>https://odisov-context.ru</url>
         <price>35000</price>
@@ -545,6 +586,7 @@
 
       <!-- Самара Telegram ADS -->
       <offer id="tg-ads-213">
+<set-ids>social,tg</set-ids>
         <name>Алексей - реклама в Telegram ADS (Самара)</name>
         <url>https://odisov-context.ru</url>
         <price>25000</price>
@@ -567,6 +609,7 @@
 
       <!-- Омск Яндекс директ -->
       <offer id="yandex-direct-213">
+<set-ids>yandex</set-ids>
         <name>Алексей - настройка Яндекс директ (Омск)</name>
         <url>https://odisov-context.ru</url>
         <price>55000</price>
@@ -591,6 +634,7 @@
 
       <!-- Омск ВКонтакте -->
       <offer id="vk-target-213">
+<set-ids>social,vk</set-ids>
         <name>Алексей - таргетированная реклама ВКонтакте (Омск)</name>
         <url>https://odisov-context.ru</url>
         <price>35000</price>
@@ -613,6 +657,7 @@
 
       <!-- Омск Telegram ADS -->
       <offer id="tg-ads-213">
+<set-ids>social,tg</set-ids>
         <name>Алексей - реклама в Telegram ADS (Омск)</name>
         <url>https://odisov-context.ru</url>
         <price>25000</price>
@@ -635,6 +680,7 @@
 
       <!-- Ростов на Дону Яндекс директ -->
       <offer id="yandex-direct-213">
+<set-ids>yandex</set-ids>
         <name>Алексей - настройка Яндекс директ (Ростов-на-Дону)</name>
         <url>https://odisov-context.ru</url>
         <price>55000</price>
@@ -659,6 +705,7 @@
 
       <!-- Ростов на Дону ВКонтакте -->
       <offer id="vk-target-213">
+<set-ids>social,vk</set-ids>
         <name>Алексей - таргетированная реклама ВКонтакте (Ростов-на-Дону)</name>
         <url>https://odisov-context.ru</url>
         <price>35000</price>
@@ -681,6 +728,7 @@
 
       <!-- Ростов на Дону Telegram ADS -->
       <offer id="tg-ads-213">
+<set-ids>social,tg</set-ids>
         <name>Алексей - реклама в Telegram ADS (Ростов-на-Дону)</name>
         <url>https://odisov-context.ru</url>
         <price>25000</price>
@@ -703,6 +751,7 @@
 
       <!-- Уфа Яндекс директ -->
       <offer id="yandex-direct-213">
+<set-ids>yandex</set-ids>
         <name>Алексей - настройка Яндекс директ (Уфа)</name>
         <url>https://odisov-context.ru</url>
         <price>55000</price>
@@ -727,6 +776,7 @@
 
       <!-- Уфа ВКонтакте -->
       <offer id="vk-target-213">
+<set-ids>social,vk</set-ids>
         <name>Алексей - таргетированная реклама ВКонтакте (Уфа)</name>
         <url>https://odisov-context.ru</url>
         <price>35000</price>
@@ -749,6 +799,7 @@
 
       <!-- Уфа Telegram ADS -->
       <offer id="tg-ads-213">
+<set-ids>social,tg</set-ids>
         <name>Алексей - реклама в Telegram ADS (Уфа)</name>
         <url>https://odisov-context.ru</url>
         <price>25000</price>
@@ -771,6 +822,7 @@
 
       <!-- Красноярск Яндекс директ -->
       <offer id="yandex-direct-213">
+<set-ids>yandex</set-ids>
         <name>Алексей - настройка Яндекс директ (Красноярск)</name>
         <url>https://odisov-context.ru</url>
         <price>55000</price>
@@ -795,6 +847,7 @@
 
       <!-- Красноярск ВКонтакте -->
       <offer id="vk-target-213">
+<set-ids>social,vk</set-ids>
         <name>Алексей - таргетированная реклама ВКонтакте (Красноярск)</name>
         <url>https://odisov-context.ru</url>
         <price>35000</price>
@@ -817,6 +870,7 @@
 
       <!-- Красноярск Telegram ADS -->
       <offer id="tg-ads-213">
+<set-ids>social,tg</set-ids>
         <name>Алексей - реклама в Telegram ADS (Красноярск)</name>
         <url>https://odisov-context.ru</url>
         <price>25000</price>
@@ -839,6 +893,7 @@
 
       <!-- Пермь Яндекс директ -->
       <offer id="yandex-direct-213">
+<set-ids>yandex</set-ids>
         <name>Алексей - настройка Яндекс директ (Пермь)</name>
         <url>https://odisov-context.ru</url>
         <price>55000</price>
@@ -863,6 +918,7 @@
 
       <!-- Пермь ВКонтакте -->
       <offer id="vk-target-213">
+<set-ids>social,vk</set-ids>
         <name>Алексей - таргетированная реклама ВКонтакте (Пермь)</name>
         <url>https://odisov-context.ru</url>
         <price>35000</price>
@@ -885,6 +941,7 @@
 
       <!-- Пермь Telegram ADS -->
       <offer id="tg-ads-213">
+<set-ids>social,tg</set-ids>
         <name>Алексей - реклама в Telegram ADS (Пермь)</name>
         <url>https://odisov-context.ru</url>
         <price>25000</price>
@@ -907,6 +964,7 @@
 
       <!-- Воронеж Яндекс директ -->
       <offer id="yandex-direct-213">
+<set-ids>yandex</set-ids>
         <name>Алексей - настройка Яндекс директ (Воронеж)</name>
         <url>https://odisov-context.ru</url>
         <price>55000</price>
@@ -931,6 +989,7 @@
 
       <!-- Воронеж ВКонтакте -->
       <offer id="vk-target-213">
+<set-ids>social,vk</set-ids>
         <name>Алексей - таргетированная реклама ВКонтакте (Воронеж)</name>
         <url>https://odisov-context.ru</url>
         <price>35000</price>
@@ -953,6 +1012,7 @@
 
       <!-- Воронеж Telegram ADS -->
       <offer id="tg-ads-213">
+<set-ids>social,tg</set-ids>
         <name>Алексей - реклама в Telegram ADS (Воронеж)</name>
         <url>https://odisov-context.ru</url>
         <price>25000</price>
@@ -975,6 +1035,7 @@
 
       <!-- Волгоград Яндекс директ -->
       <offer id="yandex-direct-213">
+<set-ids>yandex</set-ids>
         <name>Алексей - настройка Яндекс директ (Волгоград)</name>
         <url>https://odisov-context.ru</url>
         <price>55000</price>
@@ -999,6 +1060,7 @@
 
       <!-- Волгоград ВКонтакте -->
       <offer id="vk-target-213">
+<set-ids>social,vk</set-ids>
         <name>Алексей - таргетированная реклама ВКонтакте (Волгоград)</name>
         <url>https://odisov-context.ru</url>
         <price>35000</price>
@@ -1021,6 +1083,7 @@
 
       <!-- Волгоград Telegram ADS -->
       <offer id="tg-ads-213">
+<set-ids>social,tg</set-ids>
         <name>Алексей - реклама в Telegram ADS (Волгоград)</name>
         <url>https://odisov-context.ru</url>
         <price>25000</price>
