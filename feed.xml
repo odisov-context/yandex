@@ -34,11 +34,11 @@
   </set>
   <set id="vk">
     <name>ВКонтакте</name>
-<url>https://odisov-context.ru</url>
+<url>https://odisov-context.ru/vk</url>
   </set>
   <set id="tg">
     <name>Telegram ADS</name>
-<url>https://odisov-context.ru</url>
+<url>https://odisov-context.ru/telegram</url>
   </set>
 </sets>
 
