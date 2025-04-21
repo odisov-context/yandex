@@ -14,7 +14,7 @@
 
     <categories>
       <category id="1">Исполнитель</category>
-      <category id="2" parentId="1">Цифровой маркетинг</category>
+      <category id="2" parentId="1">Диджитал маркетинг</category>
       <category id="3" parentId="2">Контекстная реклама яндекс директ</category>
       <category id="4" parentId="2">Таргетированная реклама вконтакте</category>
       <category id="5" parentId="2">Таргетированная реклама в телеграме</category>
