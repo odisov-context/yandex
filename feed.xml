@@ -23,14 +23,14 @@
 <sets>
   <!-- Главный набор для соцсетей -->
   <set id="social">
-    <name>Комплексное продвижение в социальных сетях</name>
+    <name>Комплексное продвижение</name>
 <url>https://odisov-context.ru</url>
   </set>
   
   <!-- Индивидуальные наборы -->
   <set id="yandex">
     <name>Яндекс директ</name>
-<url>https://odisov-context.ru</url>
+<url>https://odisov-context.ru/yandex</url>
   </set>
   <set id="vk">
     <name>ВКонтакте</name>
