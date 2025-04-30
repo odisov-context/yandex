@@ -47,7 +47,7 @@
       <offer id="yandex-direct-213">
 <set-ids>yandex</set-ids>
         <name>Алексей - настройка Яндекс директ (Москва)</name>
-        <url>https://odisov-context.ru</url>
+        <url>https://odisov-context.ru/yandex</url>
         <price>55000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
@@ -73,7 +73,7 @@
       <offer id="vk-target-213">
 <set-ids>social,vk</set-ids>
         <name>Алексей - таргетированная реклама ВКонтакте (Москва)</name>
-        <url>https://odisov-context.ru</url>
+<url>https://odisov-context.ru/vk</url>
         <price>35000</price>
         <currencyId>RUR</currencyId>
         <categoryId>4</categoryId>
@@ -99,7 +99,7 @@
       <offer id="tg-ads-213">
 <set-ids>social,tg</set-ids>
         <name>Алексей - реклама в Telegram ADS (Москва)</name>
-        <url>https://odisov-context.ru</url>
+<url>https://odisov-context.ru/telegram</url>
         <price>25000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
@@ -125,7 +125,7 @@
       <offer id="yandex-direct-213">
 <set-ids>yandex</set-ids>
         <name>Алексей - настройка Яндекс директ (Санкт-Петербург)</name>
-        <url>https://odisov-context.ru</url>
+        <url>https://odisov-context.ru/yandex</url>
         <price>55000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
@@ -151,7 +151,7 @@
       <offer id="vk-target-213">
 <set-ids>social,vk</set-ids>
         <name>Алексей - таргетированная реклама ВКонтакте (Санкт-Петербург)</name>
-        <url>https://odisov-context.ru</url>
+<url>https://odisov-context.ru/vk</url>
         <price>35000</price>
         <currencyId>RUR</currencyId>
         <categoryId>4</categoryId>
@@ -177,7 +177,7 @@
       <offer id="tg-ads-213">
 <set-ids>social,tg</set-ids>
         <name>Алексей - реклама в Telegram ADS (Санкт-Петербург)</name>
-        <url>https://odisov-context.ru</url>
+<url>https://odisov-context.ru/telegram</url>
         <price>25000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
@@ -203,7 +203,7 @@
       <offer id="yandex-direct-213">
 <set-ids>yandex</set-ids>
         <name>Алексей - настройка Яндекс директ (Новосибирск)</name>
-        <url>https://odisov-context.ru</url>
+        <url>https://odisov-context.ru/yandex</url>
         <price>55000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
@@ -229,7 +229,7 @@
       <offer id="vk-target-213">
 <set-ids>social,vk</set-ids>
         <name>Алексей - таргетированная реклама ВКонтакте (Новосибирск)</name>
-        <url>https://odisov-context.ru</url>
+<url>https://odisov-context.ru/vk</url>
         <price>35000</price>
         <currencyId>RUR</currencyId>
         <categoryId>4</categoryId>
@@ -255,7 +255,7 @@
       <offer id="tg-ads-213">
 <set-ids>social,tg</set-ids>
         <name>Алексей - реклама в Telegram ADS (Новосибирск)</name>
-        <url>https://odisov-context.ru</url>
+<url>https://odisov-context.ru/telegram</url>
         <price>25000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
@@ -281,7 +281,7 @@
       <offer id="yandex-direct-213">
 <set-ids>yandex</set-ids>
         <name>Алексей - настройка Яндекс директ (Екатеринбург)</name>
-        <url>https://odisov-context.ru</url>
+        <url>https://odisov-context.ru/yandex</url>
         <price>55000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
@@ -307,7 +307,7 @@
       <offer id="vk-target-213">
 <set-ids>social,vk</set-ids>
         <name>Алексей - таргетированная реклама ВКонтакте (Екатеринбург)</name>
-        <url>https://odisov-context.ru</url>
+<url>https://odisov-context.ru/vk</url>
         <price>35000</price>
         <currencyId>RUR</currencyId>
         <categoryId>4</categoryId>
@@ -333,7 +333,7 @@
       <offer id="tg-ads-213">
 <set-ids>social,tg</set-ids>
         <name>Алексей - реклама в Telegram ADS (Екатеринбург)</name>
-        <url>https://odisov-context.ru</url>
+<url>https://odisov-context.ru/telegram</url>
         <price>25000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
@@ -359,7 +359,7 @@
       <offer id="yandex-direct-213">
 <set-ids>yandex</set-ids>
         <name>Алексей - настройка Яндекс директ (Казань)</name>
-        <url>https://odisov-context.ru</url>
+        <url>https://odisov-context.ru/yandex</url>
         <price>55000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
@@ -385,7 +385,7 @@
       <offer id="vk-target-213">
 <set-ids>social,vk</set-ids>
         <name>Алексей - таргетированная реклама ВКонтакте (Казань)</name>
-        <url>https://odisov-context.ru</url>
+<url>https://odisov-context.ru/vk</url>
         <price>35000</price>
         <currencyId>RUR</currencyId>
         <categoryId>4</categoryId>
@@ -411,7 +411,7 @@
       <offer id="tg-ads-213">
 <set-ids>social,tg</set-ids>
         <name>Алексей - реклама в Telegram ADS (Казань)</name>
-        <url>https://odisov-context.ru</url>
+<url>https://odisov-context.ru/telegram</url>
         <price>25000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
@@ -437,7 +437,7 @@
       <offer id="yandex-direct-213">
 <set-ids>yandex</set-ids>
         <name>Алексей - настройка Яндекс директ (Нижний-Новогород)</name>
-        <url>https://odisov-context.ru</url>
+        <url>https://odisov-context.ru/yandex</url>
         <price>55000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
@@ -463,7 +463,7 @@
       <offer id="vk-target-213">
 <set-ids>social,vk</set-ids>
         <name>Алексей - таргетированная реклама ВКонтакте (Нижний-Новогород)</name>
-        <url>https://odisov-context.ru</url>
+<url>https://odisov-context.ru/vk</url>
         <price>35000</price>
         <currencyId>RUR</currencyId>
         <categoryId>4</categoryId>
@@ -489,7 +489,7 @@
       <offer id="tg-ads-213">
 <set-ids>social,tg</set-ids>
         <name>Алексей - реклама в Telegram ADS (Нижний Новогород)</name>
-        <url>https://odisov-context.ru</url>
+<url>https://odisov-context.ru/telegram</url>
         <price>25000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
@@ -515,7 +515,7 @@
       <offer id="yandex-direct-213">
 <set-ids>yandex</set-ids>
         <name>Алексей - настройка Яндекс директ (Челябинск)</name>
-        <url>https://odisov-context.ru</url>
+        <url>https://odisov-context.ru/yandex</url>
         <price>55000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
@@ -541,7 +541,7 @@
       <offer id="vk-target-213">
 <set-ids>social,vk</set-ids>
         <name>Алексей - таргетированная реклама ВКонтакте (Челябинск)</name>
-        <url>https://odisov-context.ru</url>
+<url>https://odisov-context.ru/vk</url>
         <price>35000</price>
         <currencyId>RUR</currencyId>
         <categoryId>4</categoryId>
@@ -567,7 +567,7 @@
       <offer id="tg-ads-213">
 <set-ids>social,tg</set-ids>
         <name>Алексей - реклама в Telegram ADS (Челябинск)</name>
-        <url>https://odisov-context.ru</url>
+<url>https://odisov-context.ru/telegram</url>
         <price>25000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
@@ -593,7 +593,7 @@
       <offer id="yandex-direct-213">
 <set-ids>yandex</set-ids>
         <name>Алексей - настройка Яндекс директ (Самара)</name>
-        <url>https://odisov-context.ru</url>
+        <url>https://odisov-context.ru/yandex</url>
         <price>55000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
@@ -619,7 +619,7 @@
       <offer id="vk-target-213">
 <set-ids>social,vk</set-ids>
         <name>Алексей - таргетированная реклама ВКонтакте (Самара)</name>
-        <url>https://odisov-context.ru</url>
+<url>https://odisov-context.ru/vk</url>
         <price>35000</price>
         <currencyId>RUR</currencyId>
         <categoryId>4</categoryId>
@@ -645,7 +645,7 @@
       <offer id="tg-ads-213">
 <set-ids>social,tg</set-ids>
         <name>Алексей - реклама в Telegram ADS (Самара)</name>
-        <url>https://odisov-context.ru</url>
+<url>https://odisov-context.ru/telegram</url>
         <price>25000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
@@ -671,7 +671,7 @@
       <offer id="yandex-direct-213">
 <set-ids>yandex</set-ids>
         <name>Алексей - настройка Яндекс директ (Омск)</name>
-        <url>https://odisov-context.ru</url>
+        <url>https://odisov-context.ru/yandex</url>
         <price>55000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
@@ -697,7 +697,7 @@
       <offer id="vk-target-213">
 <set-ids>social,vk</set-ids>
         <name>Алексей - таргетированная реклама ВКонтакте (Омск)</name>
-        <url>https://odisov-context.ru</url>
+<url>https://odisov-context.ru/vk</url>
         <price>35000</price>
         <currencyId>RUR</currencyId>
         <categoryId>4</categoryId>
@@ -723,7 +723,7 @@
       <offer id="tg-ads-213">
 <set-ids>social,tg</set-ids>
         <name>Алексей - реклама в Telegram ADS (Омск)</name>
-        <url>https://odisov-context.ru</url>
+<url>https://odisov-context.ru/telegram</url>
         <price>25000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
@@ -749,7 +749,7 @@
       <offer id="yandex-direct-213">
 <set-ids>yandex</set-ids>
         <name>Алексей - настройка Яндекс директ (Ростов-на-Дону)</name>
-        <url>https://odisov-context.ru</url>
+        <url>https://odisov-context.ru/yandex</url>
         <price>55000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
@@ -775,7 +775,7 @@
       <offer id="vk-target-213">
 <set-ids>social,vk</set-ids>
         <name>Алексей - таргетированная реклама ВКонтакте (Ростов-на-Дону)</name>
-        <url>https://odisov-context.ru</url>
+<url>https://odisov-context.ru/vk</url>
         <price>35000</price>
         <currencyId>RUR</currencyId>
         <categoryId>4</categoryId>
@@ -801,7 +801,7 @@
       <offer id="tg-ads-213">
 <set-ids>social,tg</set-ids>
         <name>Алексей - реклама в Telegram ADS (Ростов-на-Дону)</name>
-        <url>https://odisov-context.ru</url>
+<url>https://odisov-context.ru/telegram</url>
         <price>25000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
@@ -827,7 +827,7 @@
       <offer id="yandex-direct-213">
 <set-ids>yandex</set-ids>
         <name>Алексей - настройка Яндекс директ (Уфа)</name>
-        <url>https://odisov-context.ru</url>
+        <url>https://odisov-context.ru/yandex</url>
         <price>55000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
@@ -853,7 +853,7 @@
       <offer id="vk-target-213">
 <set-ids>social,vk</set-ids>
         <name>Алексей - таргетированная реклама ВКонтакте (Уфа)</name>
-        <url>https://odisov-context.ru</url>
+<url>https://odisov-context.ru/vk</url>
         <price>35000</price>
         <currencyId>RUR</currencyId>
         <categoryId>4</categoryId>
@@ -879,7 +879,7 @@
       <offer id="tg-ads-213">
 <set-ids>social,tg</set-ids>
         <name>Алексей - реклама в Telegram ADS (Уфа)</name>
-        <url>https://odisov-context.ru</url>
+<url>https://odisov-context.ru/telegram</url>
         <price>25000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
@@ -905,7 +905,7 @@
       <offer id="yandex-direct-213">
 <set-ids>yandex</set-ids>
         <name>Алексей - настройка Яндекс директ (Красноярск)</name>
-        <url>https://odisov-context.ru</url>
+        <url>https://odisov-context.ru/yandex</url>
         <price>55000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
@@ -931,7 +931,7 @@
       <offer id="vk-target-213">
 <set-ids>social,vk</set-ids>
         <name>Алексей - таргетированная реклама ВКонтакте (Красноярск)</name>
-        <url>https://odisov-context.ru</url>
+<url>https://odisov-context.ru/vk</url>
         <price>35000</price>
         <currencyId>RUR</currencyId>
         <categoryId>4</categoryId>
@@ -957,7 +957,7 @@
       <offer id="tg-ads-213">
 <set-ids>social,tg</set-ids>
         <name>Алексей - реклама в Telegram ADS (Красноярск)</name>
-        <url>https://odisov-context.ru</url>
+<url>https://odisov-context.ru/telegram</url>
         <price>25000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
@@ -983,7 +983,7 @@
       <offer id="yandex-direct-213">
 <set-ids>yandex</set-ids>
         <name>Алексей - настройка Яндекс директ (Пермь)</name>
-        <url>https://odisov-context.ru</url>
+        <url>https://odisov-context.ru/yandex</url>
         <price>55000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
@@ -1009,7 +1009,7 @@
       <offer id="vk-target-213">
 <set-ids>social,vk</set-ids>
         <name>Алексей - таргетированная реклама ВКонтакте (Пермь)</name>
-        <url>https://odisov-context.ru</url>
+<url>https://odisov-context.ru/vk</url>
         <price>35000</price>
         <currencyId>RUR</currencyId>
         <categoryId>4</categoryId>
@@ -1035,7 +1035,7 @@
       <offer id="tg-ads-213">
 <set-ids>social,tg</set-ids>
         <name>Алексей - реклама в Telegram ADS (Пермь)</name>
-        <url>https://odisov-context.ru</url>
+<url>https://odisov-context.ru/telegram</url>
         <price>25000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
@@ -1061,7 +1061,7 @@
       <offer id="yandex-direct-213">
 <set-ids>yandex</set-ids>
         <name>Алексей - настройка Яндекс директ (Воронеж)</name>
-        <url>https://odisov-context.ru</url>
+        <url>https://odisov-context.ru/yandex</url>
         <price>55000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
@@ -1087,7 +1087,7 @@
       <offer id="vk-target-213">
 <set-ids>social,vk</set-ids>
         <name>Алексей - таргетированная реклама ВКонтакте (Воронеж)</name>
-        <url>https://odisov-context.ru</url>
+<url>https://odisov-context.ru/vk</url>
         <price>35000</price>
         <currencyId>RUR</currencyId>
         <categoryId>4</categoryId>
@@ -1113,7 +1113,7 @@
       <offer id="tg-ads-213">
 <set-ids>social,tg</set-ids>
         <name>Алексей - реклама в Telegram ADS (Воронеж)</name>
-        <url>https://odisov-context.ru</url>
+<url>https://odisov-context.ru/telegram</url>
         <price>25000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
@@ -1139,7 +1139,7 @@
       <offer id="yandex-direct-213">
 <set-ids>yandex</set-ids>
         <name>Алексей - настройка Яндекс директ (Волгоград)</name>
-        <url>https://odisov-context.ru</url>
+        <url>https://odisov-context.ru/yandex</url>
         <price>55000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
@@ -1165,7 +1165,7 @@
       <offer id="vk-target-213">
 <set-ids>social,vk</set-ids>
         <name>Алексей - таргетированная реклама ВКонтакте (Волгоград)</name>
-        <url>https://odisov-context.ru</url>
+<url>https://odisov-context.ru/vk</url>
         <price>35000</price>
         <currencyId>RUR</currencyId>
         <categoryId>4</categoryId>
@@ -1191,7 +1191,7 @@
       <offer id="tg-ads-213">
 <set-ids>social,tg</set-ids>
         <name>Алексей - реклама в Telegram ADS (Волгоград)</name>
-        <url>https://odisov-context.ru</url>
+<url>https://odisov-context.ru/telegram</url>
         <price>25000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
