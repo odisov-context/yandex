@@ -56,7 +56,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">8 лет</param>
+        <param name="Годы опыта">8 лет</param>
         <param name="Рейтинг">5</param>
         <param name="Число отзывов">10</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -66,7 +66,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">213</param>
-        <param name="Город">Москва</param>
+        <param name="Регион">Москва</param>
       </offer>
 
       <!-- Москва ВКонтакте -->
@@ -82,7 +82,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">5 лет</param>
+        <param name="Годы опыта">5 лет</param>
         <param name="Рейтинг">4.9</param>
         <param name="Число отзывов">3</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -92,7 +92,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">213</param>
-        <param name="Город">Москва</param>
+        <param name="Регион">Москва</param>
       </offer>
 
       <!-- Москва Telegram ADS -->
@@ -108,7 +108,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">3 года</param>
+        <param name="Годы опыта">3 года</param>
         <param name="Рейтинг">4.9</param>
         <param name="Число отзывов">2</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -118,7 +118,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">213</param>
-        <param name="Город">Москва</param>
+        <param name="Регион">Москва</param>
       </offer>
 
       <!-- Санкт петербург Яндекс директ -->
@@ -134,7 +134,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">8 лет</param>
+        <param name="Годы опыта">8 лет</param>
         <param name="Рейтинг">5</param>
         <param name="Число отзывов">10</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -144,7 +144,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">2</param>
-        <param name="Город">Санкт-Петербург</param>
+        <param name="Регион">Санкт-Петербург</param>
       </offer>
 
       <!-- Санкт петербург ВКонтакте -->
@@ -160,7 +160,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">5 лет</param>
+        <param name="Годы опыта">5 лет</param>
         <param name="Рейтинг">4.9</param>
         <param name="Число отзывов">5</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -170,7 +170,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">2</param>
-        <param name="Город">Санкт-Петербург</param>
+        <param name="Регион">Санкт-Петербург</param>
       </offer>
 
       <!-- Санкт петербург Telegram ADS -->
@@ -186,7 +186,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">3 года</param>
+        <param name="Годы опыта">3 года</param>
         <param name="Рейтинг">4.9</param>
         <param name="Число отзывов">2</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -196,7 +196,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">2</param>
-        <param name="Город">Санкт-Петербург</param>
+        <param name="Регион">Санкт-Петербург</param>
       </offer>
 
       <!-- Новосибирск Яндекс директ -->
@@ -212,7 +212,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">8 лет</param>
+        <param name="Годы опыта">8 лет</param>
         <param name="Рейтинг">5</param>
         <param name="Число отзывов">10</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -222,7 +222,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">65</param>
-        <param name="Город">Новосибирск</param>
+        <param name="Регион">Новосибирск</param>
       </offer>
 
       <!-- Новосибирск ВКонтакте -->
@@ -238,7 +238,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">5 лет</param>
+        <param name="Годы опыта">5 лет</param>
         <param name="Рейтинг">4.9</param>
         <param name="Число отзывов">5</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -248,7 +248,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">65</param>
-        <param name="Город">Новосибирск</param>
+        <param name="Регион">Новосибирск</param>
       </offer>
 
       <!-- Новосибирск Telegram ADS -->
@@ -264,7 +264,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">3 года</param>
+        <param name="Годы опыта">3 года</param>
         <param name="Рейтинг">4.9</param>
         <param name="Число отзывов">2</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -274,7 +274,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">65</param>
-        <param name="Город">Новосибирск</param>
+        <param name="Регион">Новосибирск</param>
       </offer>
 
       <!-- Екатеринбург Яндекс директ -->
@@ -290,7 +290,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">8 лет</param>
+        <param name="Годы опыта">8 лет</param>
         <param name="Рейтинг">5</param>
         <param name="Число отзывов">10</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -300,7 +300,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">54</param>
-        <param name="Город">Екатеринбург</param>
+        <param name="Регион">Екатеринбург</param>
       </offer>
 
       <!-- Екатеринбург ВКонтакте -->
@@ -316,7 +316,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">5 лет</param>
+        <param name="Годы опыта">5 лет</param>
         <param name="Рейтинг">4.9</param>
         <param name="Число отзывов">5</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -326,7 +326,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">54</param>
-        <param name="Город">Екатеринбург</param>
+        <param name="Регион">Екатеринбург</param>
       </offer>
 
       <!-- Екатеринбург Telegram ADS -->
@@ -342,7 +342,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">3 года</param>
+        <param name="Годы опыта">3 года</param>
         <param name="Рейтинг">4.9</param>
         <param name="Число отзывов">2</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -352,7 +352,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">54</param>
-        <param name="Город">Екатеринбург</param>
+        <param name="Регион">Екатеринбург</param>
       </offer>
 
       <!-- Казань Яндекс директ -->
@@ -368,7 +368,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">8 лет</param>
+        <param name="Годы опыта">8 лет</param>
         <param name="Рейтинг">5</param>
         <param name="Число отзывов">10</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -378,7 +378,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">11019</param>
-        <param name="Город">Казань</param>
+        <param name="Регион">Казань</param>
       </offer>
 
       <!-- Казань ВКонтакте -->
@@ -394,7 +394,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">5 лет</param>
+        <param name="Годы опыта">5 лет</param>
         <param name="Рейтинг">4.9</param>
         <param name="Число отзывов">5</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -404,7 +404,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">11019</param>
-        <param name="Город">Казань</param>
+        <param name="Регион">Казань</param>
       </offer>
 
       <!-- Казань Telegram ADS -->
@@ -420,7 +420,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">3 года</param>
+        <param name="Годы опыта">3 года</param>
         <param name="Рейтинг">4.9</param>
         <param name="Число отзывов">2</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -430,23 +430,23 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">11019</param>
-        <param name="Город">Казань</param>
+        <param name="Регион">Казань</param>
       </offer>
 
-      <!-- Нижний Новогород Яндекс директ -->
+      <!-- Нижний НовоРегион Яндекс директ -->
       <offer id="yandex-direct-213">
 <set-ids>yandex</set-ids>
-        <name>Алексей - настройка Яндекс директ (Нижний-Новогород)</name>
+        <name>Алексей - настройка Яндекс директ (Нижний-НовоРегион)</name>
         <url>https://odisov-context.ru/yandex</url>
         <price>55000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <picture>https://odisov-context.github.io/yandex/yandex.png</picture>
-        <description>Профессиональная настройка контекстной рекламы в Яндекс директе для компаний Нижнего Новогорода с рекламным бюджетом от 100 000 ₽. Полный цикл работ: от создания объявлений до аналитики и оптимизации. Кейсы</description>
+        <description>Профессиональная настройка контекстной рекламы в Яндекс директе для компаний Нижнего НовоРегиона с рекламным бюджетом от 100 000 ₽. Полный цикл работ: от создания объявлений до аналитики и оптимизации. Кейсы</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">8 лет</param>
+        <param name="Годы опыта">8 лет</param>
         <param name="Рейтинг">5</param>
         <param name="Число отзывов">10</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -456,23 +456,23 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">47</param>
-        <param name="Город">Нижний-Новогород</param>
+        <param name="Регион">Нижний-НовоРегион</param>
       </offer>
 
-      <!-- Нижний Новогород ВКонтакте -->
+      <!-- Нижний НовоРегион ВКонтакте -->
       <offer id="vk-target-213">
 <set-ids>social,vk</set-ids>
-        <name>Алексей - таргетированная реклама ВКонтакте (Нижний-Новогород)</name>
+        <name>Алексей - таргетированная реклама ВКонтакте (Нижний-НовоРегион)</name>
 <url>https://odisov-context.ru/vk</url>
         <price>35000</price>
         <currencyId>RUR</currencyId>
         <categoryId>4</categoryId>
         <picture>https://odisov-context.github.io/yandex/vk.png</picture>
-        <description>Настройка таргетированной рекламы ВКонтакте для компаний Нижнего Новогорода с рекламным бюджетом от 50 000 ₽. Работа с Look-alike аудиторией, ретаргетингом и креативами. Анализ и оптимизация.</description>
+        <description>Настройка таргетированной рекламы ВКонтакте для компаний Нижнего НовоРегиона с рекламным бюджетом от 50 000 ₽. Работа с Look-alike аудиторией, ретаргетингом и креативами. Анализ и оптимизация.</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">5 лет</param>
+        <param name="Годы опыта">5 лет</param>
         <param name="Рейтинг">4.9</param>
         <param name="Число отзывов">5</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -482,23 +482,23 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">47</param>
-        <param name="Город">Нижний-Новогород</param>
+        <param name="Регион">Нижний-НовоРегион</param>
       </offer>
 
-      <!-- Нижний Новогород Telegram ADS -->
+      <!-- Нижний НовоРегион Telegram ADS -->
       <offer id="tg-ads-213">
 <set-ids>social,tg</set-ids>
-        <name>Алексей - реклама в Telegram ADS (Нижний Новогород)</name>
+        <name>Алексей - реклама в Telegram ADS (Нижний НовоРегион)</name>
 <url>https://odisov-context.ru/telegram</url>
         <price>25000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
         <picture>https://odisov-context.github.io/yandex/telegram.png</picture>
-        <description>Настройка и ведение рекламных кампаний в телеграме для компаний Нижнего Новогорода с рекламным бюджетом от 100 000 ₽. Таргет на тематические каналы и по интересам, работа с партнерскими сетями - посевы, нативный формат, аналитика эффективности.</description>
+        <description>Настройка и ведение рекламных кампаний в телеграме для компаний Нижнего НовоРегиона с рекламным бюджетом от 100 000 ₽. Таргет на тематические каналы и по интересам, работа с партнерскими сетями - посевы, нативный формат, аналитика эффективности.</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">3 года</param>
+        <param name="Годы опыта">3 года</param>
         <param name="Рейтинг">4.9</param>
         <param name="Число отзывов">2</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -508,7 +508,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">47</param>
-        <param name="Город">Нижний-Новогород</param>
+        <param name="Регион">Нижний-НовоРегион</param>
       </offer>
 
       <!-- Челябинск Яндекс директ -->
@@ -524,7 +524,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">8 лет</param>
+        <param name="Годы опыта">8 лет</param>
         <param name="Рейтинг">5</param>
         <param name="Число отзывов">10</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -534,7 +534,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">56</param>
-        <param name="Город">Челябинск</param>
+        <param name="Регион">Челябинск</param>
       </offer>
 
       <!-- Челябинск ВКонтакте -->
@@ -550,7 +550,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">5 лет</param>
+        <param name="Годы опыта">5 лет</param>
         <param name="Рейтинг">4.9</param>
         <param name="Число отзывов">5</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -560,7 +560,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">56</param>
-        <param name="Город">Челябинск</param>
+        <param name="Регион">Челябинск</param>
       </offer>
 
       <!-- Челябинск Telegram ADS -->
@@ -576,7 +576,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">3 года</param>
+        <param name="Годы опыта">3 года</param>
         <param name="Рейтинг">4.9</param>
         <param name="Число отзывов">2</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -586,7 +586,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">56</param>
-        <param name="Город">Челябинск</param>
+        <param name="Регион">Челябинск</param>
       </offer>
 
       <!-- Самара Яндекс директ -->
@@ -602,7 +602,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">8 лет</param>
+        <param name="Годы опыта">8 лет</param>
         <param name="Рейтинг">5</param>
         <param name="Число отзывов">10</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -612,7 +612,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">51</param>
-        <param name="Город">Самара</param>
+        <param name="Регион">Самара</param>
       </offer>
 
       <!-- Самара ВКонтакте -->
@@ -628,7 +628,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">5 лет</param>
+        <param name="Годы опыта">5 лет</param>
         <param name="Рейтинг">4.9</param>
         <param name="Число отзывов">5</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -638,7 +638,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">51</param>
-        <param name="Город">Самара</param>
+        <param name="Регион">Самара</param>
       </offer>
 
       <!-- Самара Telegram ADS -->
@@ -654,7 +654,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">3 года</param>
+        <param name="Годы опыта">3 года</param>
         <param name="Рейтинг">4.9</param>
         <param name="Число отзывов">2</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -664,7 +664,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">51</param>
-        <param name="Город">Самара</param>
+        <param name="Регион">Самара</param>
       </offer>
 
       <!-- Омск Яндекс директ -->
@@ -680,7 +680,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">8 лет</param>
+        <param name="Годы опыта">8 лет</param>
         <param name="Рейтинг">5</param>
         <param name="Число отзывов">10</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -690,7 +690,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">66</param>
-        <param name="Город">Омск</param>
+        <param name="Регион">Омск</param>
       </offer>
 
       <!-- Омск ВКонтакте -->
@@ -706,7 +706,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">5 лет</param>
+        <param name="Годы опыта">5 лет</param>
         <param name="Рейтинг">4.9</param>
         <param name="Число отзывов">5</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -716,7 +716,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">66</param>
-        <param name="Город">Омск</param>
+        <param name="Регион">Омск</param>
       </offer>
 
       <!-- Омск Telegram ADS -->
@@ -732,7 +732,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">3 года</param>
+        <param name="Годы опыта">3 года</param>
         <param name="Рейтинг">4.9</param>
         <param name="Число отзывов">2</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -742,7 +742,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">66</param>
-        <param name="Город">Омск</param>
+        <param name="Регион">Омск</param>
       </offer>
 
       <!-- Ростов на Дону Яндекс директ -->
@@ -758,7 +758,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">8 лет</param>
+        <param name="Годы опыта">8 лет</param>
         <param name="Рейтинг">5</param>
         <param name="Число отзывов">10</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -768,7 +768,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">39</param>
-        <param name="Город">Ростов-на-Дону</param>
+        <param name="Регион">Ростов-на-Дону</param>
       </offer>
 
       <!-- Ростов на Дону ВКонтакте -->
@@ -784,7 +784,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">5 лет</param>
+        <param name="Годы опыта">5 лет</param>
         <param name="Рейтинг">4.9</param>
         <param name="Число отзывов">5</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -794,7 +794,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">39</param>
-        <param name="Город">Ростов-на-Дону</param>
+        <param name="Регион">Ростов-на-Дону</param>
       </offer>
 
       <!-- Ростов на Дону Telegram ADS -->
@@ -810,7 +810,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">3 года</param>
+        <param name="Годы опыта">3 года</param>
         <param name="Рейтинг">4.9</param>
         <param name="Число отзывов">2</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -820,7 +820,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">39</param>
-        <param name="Город">Ростов-на-Дону</param>
+        <param name="Регион">Ростов-на-Дону</param>
       </offer>
 
       <!-- Уфа Яндекс директ -->
@@ -836,7 +836,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">8 лет</param>
+        <param name="Годы опыта">8 лет</param>
         <param name="Рейтинг">5</param>
         <param name="Число отзывов">10</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -846,7 +846,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">172</param>
-        <param name="Город">Уфа</param>
+        <param name="Регион">Уфа</param>
       </offer>
 
       <!-- Уфа ВКонтакте -->
@@ -862,7 +862,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">5 лет</param>
+        <param name="Годы опыта">5 лет</param>
         <param name="Рейтинг">4.9</param>
         <param name="Число отзывов">5</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -872,7 +872,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">172</param>
-        <param name="Город">Уфа</param>
+        <param name="Регион">Уфа</param>
       </offer>
 
       <!-- Уфа Telegram ADS -->
@@ -888,7 +888,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">3 года</param>
+        <param name="Годы опыта">3 года</param>
         <param name="Рейтинг">4.9</param>
         <param name="Число отзывов">2</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -898,7 +898,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">172</param>
-        <param name="Город">Уфа</param>
+        <param name="Регион">Уфа</param>
       </offer>
 
       <!-- Красноярск Яндекс директ -->
@@ -914,7 +914,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">8 лет</param>
+        <param name="Годы опыта">8 лет</param>
         <param name="Рейтинг">5</param>
         <param name="Число отзывов">10</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -924,7 +924,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">62</param>
-        <param name="Город">Красноярск</param>
+        <param name="Регион">Красноярск</param>
       </offer>
 
       <!-- Красноярск ВКонтакте -->
@@ -940,7 +940,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">5 лет</param>
+        <param name="Годы опыта">5 лет</param>
         <param name="Рейтинг">4.9</param>
         <param name="Число отзывов">5</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -950,7 +950,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">62</param>
-        <param name="Город">Красноярск</param>
+        <param name="Регион">Красноярск</param>
       </offer>
 
       <!-- Красноярск Telegram ADS -->
@@ -966,7 +966,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">3 года</param>
+        <param name="Годы опыта">3 года</param>
         <param name="Рейтинг">4.9</param>
         <param name="Число отзывов">2</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -976,7 +976,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">62</param>
-        <param name="Город">Красноярск</param>
+        <param name="Регион">Красноярск</param>
       </offer>
 
       <!-- Пермь Яндекс директ -->
@@ -992,7 +992,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">8 лет</param>
+        <param name="Годы опыта">8 лет</param>
         <param name="Рейтинг">5</param>
         <param name="Число отзывов">10</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -1002,7 +1002,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">59</param>
-        <param name="Город">Пермь</param>
+        <param name="Регион">Пермь</param>
       </offer>
 
       <!-- Пермь ВКонтакте -->
@@ -1018,7 +1018,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">5 лет</param>
+        <param name="Годы опыта">5 лет</param>
         <param name="Рейтинг">4.9</param>
         <param name="Число отзывов">5</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -1028,7 +1028,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">59</param>
-        <param name="Город">Пермь</param>
+        <param name="Регион">Пермь</param>
       </offer>
 
       <!-- Пермь Telegram ADS -->
@@ -1044,7 +1044,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">3 года</param>
+        <param name="Годы опыта">3 года</param>
         <param name="Рейтинг">4.9</param>
         <param name="Число отзывов">2</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -1054,7 +1054,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">59</param>
-        <param name="Город">Пермь</param>
+        <param name="Регион">Пермь</param>
       </offer>
 
       <!-- Воронеж Яндекс директ -->
@@ -1070,7 +1070,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">8 лет</param>
+        <param name="Годы опыта">8 лет</param>
         <param name="Рейтинг">5</param>
         <param name="Число отзывов">10</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -1080,7 +1080,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">36</param>
-        <param name="Город">Воронеж</param>
+        <param name="Регион">Воронеж</param>
       </offer>
 
       <!-- Воронеж ВКонтакте -->
@@ -1096,7 +1096,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">5 лет</param>
+        <param name="Годы опыта">5 лет</param>
         <param name="Рейтинг">4.9</param>
         <param name="Число отзывов">5</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -1106,7 +1106,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">36</param>
-        <param name="Город">Воронеж</param>
+        <param name="Регион">Воронеж</param>
       </offer>
 
       <!-- Воронеж Telegram ADS -->
@@ -1122,7 +1122,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">3 года</param>
+        <param name="Годы опыта">3 года</param>
         <param name="Рейтинг">4.9</param>
         <param name="Число отзывов">2</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -1132,7 +1132,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">36</param>
-        <param name="Город">Воронеж</param>
+        <param name="Регион">Воронеж</param>
       </offer>
 
       <!-- Волгоград Яндекс директ -->
@@ -1148,7 +1148,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">8 лет</param>
+        <param name="Годы опыта">8 лет</param>
         <param name="Рейтинг">5</param>
         <param name="Число отзывов">10</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -1158,7 +1158,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">34</param>
-        <param name="Город">Волгоград</param>
+        <param name="Регион">Волгоград</param>
       </offer>
 
       <!-- Волгоград ВКонтакте -->
@@ -1174,7 +1174,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">5 лет</param>
+        <param name="Годы опыта">5 лет</param>
         <param name="Рейтинг">4.9</param>
         <param name="Число отзывов">5</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -1184,7 +1184,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">34</param>
-        <param name="Город">Волгоград</param>
+        <param name="Регион">Волгоград</param>
       </offer>
 
       <!-- Волгоград Telegram ADS -->
@@ -1200,7 +1200,7 @@
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
-        <param name="Опыт">3 года</param>
+        <param name="Годы опыта">3 года</param>
         <param name="Рейтинг">4.9</param>
         <param name="Число отзывов">2</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
@@ -1210,7 +1210,7 @@
         <param name="Ссылка для звонка">https://odisov-context.ru/call/79826762902</param>
         <param name="Email">odis90@mail.ru</param>
         <param name="ID региона">34</param>
-        <param name="Город">Волгоград</param>
+        <param name="Регион">Волгоград</param>
       </offer>
     </offers>
   </shop>
