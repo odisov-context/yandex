@@ -30,15 +30,15 @@
   <!-- Индивидуальные наборы -->
   <set id="yandex">
     <name>Яндекс директ</name>
-<url>https://odisov-context.ru/yandex-direct-213</url>
+<url>https://odisov-context.ru/yandex-direct-213-213</url>
   </set>
   <set id="vk">
     <name>ВКонтакте</name>
-<url>https://odisov-context.ru/vk-target-214</url>
+<url>https://odisov-context.ru/vk-target-214-214</url>
   </set>
   <set id="tg">
     <name>Telegram ADS</name>
-<url>https://odisov-context.ru/tg-ads-215</url>
+<url>https://odisov-context.ru/tg-ads-215-215</url>
   </set>
 </sets>
 
@@ -46,13 +46,13 @@
       <!-- Москва Яндекс директ -->
       <offer id="yandex-direct-213">
 <set-ids>yandex</set-ids>
-        <name>Алексей - настройка Яндекс директ (Москва)</name>
-        <url>https://odisov-context.ru/yandex-direct</url>
+        <name>Алексей О.</name>
+        <url>https://odisov-context.ru/yandex-direct-213</url>
         <price>55000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <picture>https://odisov-context.github.io/yandex/yandex.png</picture>
-        <description>Профессиональная настройка контекстной рекламы в Яндекс директе для бизнеса Москвы с рекламным бюджетом от 100 000 ₽. Полный цикл работ: от создания объявлений до аналитики и оптимизации. Кейсы</description>
+        <description>Специалист по настройке контекстной рекламы в Яндекс директе для бизнеса Москвы с рекламным бюджетом от 100 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -71,13 +71,13 @@
       <!-- Москва ВКонтакте -->
       <offer id="vk-target-214">
 <set-ids>social,vk</set-ids>
-        <name>Алексей - таргетированная реклама ВКонтакте (Москва)</name>
-<url>https://odisov-context.ru/vk-target</url>
+        <name>Алексей О.</name>
+<url>https://odisov-context.ru/vk-target-214</url>
         <price>35000</price>
         <currencyId>RUR</currencyId>
         <categoryId>4</categoryId>
         <picture>https://odisov-context.github.io/yandex/vk.png</picture>
-        <description>Настройка таргетированной рекламы ВКонтакте в Москве с рекламным бюджетом от 50 000 ₽. Работа с Look-alike аудиторией, ретаргетингом и креативами. Анализ и оптимизация.</description>
+        <description>Специалст по настройке таргетированной рекламы ВКонтакте в Москве с рекламным бюджетом от 50 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -96,13 +96,13 @@
       <!-- Москва Telegram ADS -->
       <offer id="tg-ads-215">
 <set-ids>social,tg</set-ids>
-        <name>Алексей - реклама в Telegram ADS (Москва)</name>
-<url>https://odisov-context.ru/tg-ads</url>
+        <name>Алексей О.</name>
+<url>https://odisov-context.ru/tg-ads-215</url>
         <price>25000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
         <picture>https://odisov-context.github.io/yandex/telegram.png</picture>
-        <description>Настройка и ведение рекламных кампаний в телеграме для бизнеса Москвы с бюджетом от 100 000 ₽. Таргет на тематические каналы и по интересам, работа с партнерскими сетями - посевы, нативный формат, аналитика эффективности.</description>
+        <description>Специалист по настройке и ведению рекламных кампаний в телеграме для бизнеса Москвы с бюджетом от 100 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -121,13 +121,13 @@
       <!-- Санкт петербург Яндекс директ -->
       <offer id="yandex-direct-213">
 <set-ids>yandex</set-ids>
-        <name>Алексей - настройка Яндекс директ (Санкт-Петербург)</name>
-        <url>https://odisov-context.ru/yandex-direct</url>
+<name>Алексей О.</name>
+        <url>https://odisov-context.ru/yandex-direct-213</url>
         <price>55000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <picture>https://odisov-context.github.io/yandex/yandex.png</picture>
-        <description>Профессиональная настройка контекстной рекламы в Яндекс директе в Санкт Петербурге с рекламным бюджетом от 100 000 ₽. Полный цикл работ: от создания объявлений до аналитики и оптимизации. Кейсы</description>
+        <description>Специалист по настройке контекстной рекламы в Яндекс директе в Санкт Петербурге с рекламным бюджетом от 100 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -146,13 +146,13 @@
       <!-- Санкт петербург ВКонтакте -->
       <offer id="vk-target-214">
 <set-ids>social,vk</set-ids>
-        <name>Алексей - таргетированная реклама ВКонтакте (Санкт-Петербург)</name>
-<url>https://odisov-context.ru/vk-target</url>
+        <name>Алексей О.</name>
+<url>https://odisov-context.ru/vk-target-214</url>
         <price>35000</price>
         <currencyId>RUR</currencyId>
         <categoryId>4</categoryId>
         <picture>https://odisov-context.github.io/yandex/vk.png</picture>
-        <description>Настройка таргетированной рекламы ВКонтакте в Санкт Петербурге с рекламным бюджетом от 50 000 ₽. Работа с Look-alike аудиторией, ретаргетингом и креативами. Анализ и оптимизация.</description>
+        <description>Специалист по настройке таргетированной рекламы ВКонтакте в Санкт Петербурге с рекламным бюджетом от 50 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -171,13 +171,13 @@
       <!-- Санкт петербург Telegram ADS -->
       <offer id="tg-ads-215">
 <set-ids>social,tg</set-ids>
-        <name>Алексей - реклама в Telegram ADS (Санкт-Петербург)</name>
-<url>https://odisov-context.ru/tg-ads</url>
+        <name>Алексей О.</name>
+<url>https://odisov-context.ru/tg-ads-215</url>
         <price>25000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
         <picture>https://odisov-context.github.io/yandex/telegram.png</picture>
-        <description>Настройка и ведение рекламных кампаний в телеграме для бизнеса Санкт Петербурга с рекламным бюджетом от 100 000 ₽. Таргет на тематические каналы и по интересам, работа с партнерскими сетями - посевы, нативный формат, аналитика эффективности.</description>
+        <description>Специалист по настройке и ведению рекламных кампаний в телеграме для бизнеса Санкт Петербурга с рекламным бюджетом от 100 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -196,13 +196,13 @@
       <!-- Новосибирск Яндекс директ -->
       <offer id="yandex-direct-213">
 <set-ids>yandex</set-ids>
-        <name>Алексей - настройка Яндекс директ (Новосибирск)</name>
-        <url>https://odisov-context.ru/yandex-direct</url>
+        <name>Алексей О.</name>
+        <url>https://odisov-context.ru/yandex-direct-213</url>
         <price>55000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <picture>https://odisov-context.github.io/yandex/yandex.png</picture>
-        <description>Профессиональная настройка контекстной рекламы в Яндекс директе в Новосибирске с рекламным бюджетом от 100 000 ₽. Полный цикл работ: от создания объявлений до аналитики и оптимизации. Кейсы</description>
+        <description>Специалист по настройке контекстной рекламы в Яндекс директе в Новосибирске с рекламным бюджетом от 100 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -221,13 +221,13 @@
       <!-- Новосибирск ВКонтакте -->
       <offer id="vk-target-214">
 <set-ids>social,vk</set-ids>
-        <name>Алексей - таргетированная реклама ВКонтакте (Новосибирск)</name>
-<url>https://odisov-context.ru/vk-target</url>
+        <name>Алексей О.</name>
+<url>https://odisov-context.ru/vk-target-214</url>
         <price>35000</price>
         <currencyId>RUR</currencyId>
         <categoryId>4</categoryId>
         <picture>https://odisov-context.github.io/yandex/vk.png</picture>
-        <description>Настройка таргетированной рекламы ВКонтакте в Новосибирске с рекламным бюджетом от 50 000 ₽. Работа с Look-alike аудиторией, ретаргетингом и креативами. Анализ и оптимизация.</description>
+        <description>Специалист по настройке таргетированной рекламы ВКонтакте в Новосибирске с рекламным бюджетом от 50 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -246,13 +246,13 @@
       <!-- Новосибирск Telegram ADS -->
       <offer id="tg-ads-215">
 <set-ids>social,tg</set-ids>
-        <name>Алексей - реклама в Telegram ADS (Новосибирск)</name>
-<url>https://odisov-context.ru/tg-ads</url>
+        <name>Алексей О.</name>
+<url>https://odisov-context.ru/tg-ads-215</url>
         <price>25000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
         <picture>https://odisov-context.github.io/yandex/telegram.png</picture>
-        <description>Настройка и ведение рекламных кампаний в телеграме для бизнеса Новосибирска с рекламным бюджетом от 100 000 ₽. Таргет на тематические каналы и по интересам, работа с партнерскими сетями - посевы, нативный формат, аналитика эффективности.</description>
+        <description>Специалист по настройке и ведению рекламных кампаний в телеграме для бизнеса Новосибирска с рекламным бюджетом от 100 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -271,13 +271,13 @@
       <!-- Екатеринбург Яндекс директ -->
       <offer id="yandex-direct-213">
 <set-ids>yandex</set-ids>
-        <name>Алексей - настройка Яндекс директ (Екатеринбург)</name>
-        <url>https://odisov-context.ru/yandex-direct</url>
+        <name>Алексей О.</name>
+        <url>https://odisov-context.ru/yandex-direct-213</url>
         <price>55000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <picture>https://odisov-context.github.io/yandex/yandex.png</picture>
-        <description>Профессиональная настройка контекстной рекламы в Яндекс директе для компаний Екатеринбурга с рекламным бюджетом от 100 000 ₽. Полный цикл работ: от создания объявлений до аналитики и оптимизации. Кейсы</description>
+        <description>Специалист по настройке контекстной рекламы в Яндекс директе для компаний Екатеринбурга с рекламным бюджетом от 100 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -296,13 +296,13 @@
       <!-- Екатеринбург ВКонтакте -->
       <offer id="vk-target-214">
 <set-ids>social,vk</set-ids>
-        <name>Алексей - таргетированная реклама ВКонтакте (Екатеринбург)</name>
-<url>https://odisov-context.ru/vk-target</url>
+        <name>Алексей О.</name>
+<url>https://odisov-context.ru/vk-target-214</url>
         <price>35000</price>
         <currencyId>RUR</currencyId>
         <categoryId>4</categoryId>
         <picture>https://odisov-context.github.io/yandex/vk.png</picture>
-        <description>Настройка таргетированной рекламы ВКонтакте для компаний Екатеринбурга с рекламным бюджетом от 50 000 ₽. Работа с Look-alike аудиторией, ретаргетингом и креативами. Анализ и оптимизация.</description>
+        <description>Специалист по настройке таргетированной рекламы ВКонтакте для компаний Екатеринбурга с рекламным бюджетом от 50 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -321,13 +321,13 @@
       <!-- Екатеринбург Telegram ADS -->
       <offer id="tg-ads-215">
 <set-ids>social,tg</set-ids>
-        <name>Алексей - реклама в Telegram ADS (Екатеринбург)</name>
-<url>https://odisov-context.ru/tg-ads</url>
+        <name>Алексей О.</name>
+<url>https://odisov-context.ru/tg-ads-215</url>
         <price>25000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
         <picture>https://odisov-context.github.io/yandex/telegram.png</picture>
-        <description>Настройка и ведение рекламных кампаний в телеграме для компаний Екатеринбурга с рекламным бюджетом от 100 000 ₽. Таргет на тематические каналы и по интересам, работа с партнерскими сетями - посевы, нативный формат, аналитика эффективности.</description>
+        <description>Настройка и ведение рекламных кампаний в телеграме для компаний Екатеринбурга с рекламным бюджетом от 100 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -346,13 +346,13 @@
       <!-- Казань Яндекс директ -->
       <offer id="yandex-direct-213">
 <set-ids>yandex</set-ids>
-        <name>Алексей - настройка Яндекс директ (Казань)</name>
-        <url>https://odisov-context.ru/yandex-direct</url>
+        <name>Алексей О.</name>
+        <url>https://odisov-context.ru/yandex-direct-213</url>
         <price>55000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <picture>https://odisov-context.github.io/yandex/yandex.png</picture>
-        <description>Профессиональная настройка контекстной рекламы в Яндекс директе г. Казань с рекламным бюджетом от 100 000 ₽. Полный цикл работ: от создания объявлений до аналитики и оптимизации. Кейсы</description>
+        <description>Специалист по настройке контекстной рекламы в Яндекс директе г. Казань с рекламным бюджетом от 100 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -371,13 +371,13 @@
       <!-- Казань ВКонтакте -->
       <offer id="vk-target-214">
 <set-ids>social,vk</set-ids>
-        <name>Алексей - таргетированная реклама ВКонтакте (Казань)</name>
-<url>https://odisov-context.ru/vk-target</url>
+        <name>Алексей О.</name>
+<url>https://odisov-context.ru/vk-target-214</url>
         <price>35000</price>
         <currencyId>RUR</currencyId>
         <categoryId>4</categoryId>
         <picture>https://odisov-context.github.io/yandex/vk.png</picture>
-        <description>Настройка таргетированной рекламы ВКонтакте г. Казань с рекламным бюджетом от 50 000 ₽. Работа с Look-alike аудиторией, ретаргетингом и креативами. Анализ и оптимизация.</description>
+        <description>Специалист по настройке таргетированной рекламы ВКонтакте г. Казань с рекламным бюджетом от 50 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -396,13 +396,13 @@
       <!-- Казань Telegram ADS -->
       <offer id="tg-ads-215">
 <set-ids>social,tg</set-ids>
-        <name>Алексей - реклама в Telegram ADS (Казань)</name>
-<url>https://odisov-context.ru/tg-ads</url>
+        <name>Алексей О.</name>
+<url>https://odisov-context.ru/tg-ads-215</url>
         <price>25000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
         <picture>https://odisov-context.github.io/yandex/telegram.png</picture>
-        <description>Настройка и ведение рекламных кампаний в телеграме для бизнеса г. Казань с рекламным бюджетом от 100 000 ₽. Таргет на тематические каналы и по интересам, работа с партнерскими сетями - посевы, нативный формат, аналитика эффективности.</description>
+        <description>Специалист по настройке и ведению рекламных кампаний в телеграме для бизнеса г. Казань с рекламным бюджетом от 100 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -418,16 +418,16 @@
         <param name="Регион">Казань</param>
       </offer>
 
-      <!-- Нижний НовоРегион Яндекс директ -->
+      <!-- Нижний Новгород Яндекс директ -->
       <offer id="yandex-direct-213">
 <set-ids>yandex</set-ids>
-        <name>Алексей - настройка Яндекс директ (Нижний-НовоРегион)</name>
-        <url>https://odisov-context.ru/yandex-direct</url>
+        <name>Алексей О.</name>
+        <url>https://odisov-context.ru/yandex-direct-213</url>
         <price>55000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <picture>https://odisov-context.github.io/yandex/yandex.png</picture>
-        <description>Профессиональная настройка контекстной рекламы в Яндекс директе для компаний Нижнего НовоРегиона с рекламным бюджетом от 100 000 ₽. Полный цикл работ: от создания объявлений до аналитики и оптимизации. Кейсы</description>
+        <description>Специалист по настройке контекстной рекламы в Яндекс директе для компаний Нижнего НовоРегиона с рекламным бюджетом от 100 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -443,16 +443,16 @@
         <param name="Регион">Нижний-НовоРегион</param>
       </offer>
 
-      <!-- Нижний НовоРегион ВКонтакте -->
+      <!-- Нижний Новгород ВКонтакте -->
       <offer id="vk-target-214">
 <set-ids>social,vk</set-ids>
-        <name>Алексей - таргетированная реклама ВКонтакте (Нижний-НовоРегион)</name>
-<url>https://odisov-context.ru/vk-target</url>
+        <name>Алексей О.</name>
+<url>https://odisov-context.ru/vk-target-214</url>
         <price>35000</price>
         <currencyId>RUR</currencyId>
         <categoryId>4</categoryId>
         <picture>https://odisov-context.github.io/yandex/vk.png</picture>
-        <description>Настройка таргетированной рекламы ВКонтакте для компаний Нижнего НовоРегиона с рекламным бюджетом от 50 000 ₽. Работа с Look-alike аудиторией, ретаргетингом и креативами. Анализ и оптимизация.</description>
+        <description>Специалист по настройке таргетированной рекламы ВКонтакте для компаний Нижнего НовоРегиона с рекламным бюджетом от 50 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -468,16 +468,16 @@
         <param name="Регион">Нижний-НовоРегион</param>
       </offer>
 
-      <!-- Нижний НовоРегион Telegram ADS -->
+      <!-- Нижний Новгород Telegram ADS -->
       <offer id="tg-ads-215">
 <set-ids>social,tg</set-ids>
-        <name>Алексей - реклама в Telegram ADS (Нижний НовоРегион)</name>
-<url>https://odisov-context.ru/tg-ads</url>
+        <name>Алексей О.</name>
+<url>https://odisov-context.ru/tg-ads-215</url>
         <price>25000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
         <picture>https://odisov-context.github.io/yandex/telegram.png</picture>
-        <description>Настройка и ведение рекламных кампаний в телеграме для компаний Нижнего НовоРегиона с рекламным бюджетом от 100 000 ₽. Таргет на тематические каналы и по интересам, работа с партнерскими сетями - посевы, нативный формат, аналитика эффективности.</description>
+        <description>Настройка и ведение рекламных кампаний в телеграме для компаний Нижнего НовоРегиона с рекламным бюджетом от 100 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -496,13 +496,13 @@
       <!-- Челябинск Яндекс директ -->
       <offer id="yandex-direct-213">
 <set-ids>yandex</set-ids>
-        <name>Алексей - настройка Яндекс директ (Челябинск)</name>
-        <url>https://odisov-context.ru/yandex-direct</url>
+        <name>Алексей О.</name>
+        <url>https://odisov-context.ru/yandex-direct-213</url>
         <price>55000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <picture>https://odisov-context.github.io/yandex/yandex.png</picture>
-        <description>Профессиональная настройка контекстной рекламы в Яндекс директе для бизнеса Челябинска с рекламным бюджетом от 100 000 ₽. Полный цикл работ: от создания объявлений до аналитики и оптимизации. Кейсы</description>
+        <description>Специалист по настройке контекстной рекламы в Яндекс директе для бизнеса Челябинска с рекламным бюджетом от 100 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -521,13 +521,13 @@
       <!-- Челябинск ВКонтакте -->
       <offer id="vk-target-214">
 <set-ids>social,vk</set-ids>
-        <name>Алексей - таргетированная реклама ВКонтакте (Челябинск)</name>
-<url>https://odisov-context.ru/vk-target</url>
+        <name>Алексей О.</name>
+<url>https://odisov-context.ru/vk-target-214</url>
         <price>35000</price>
         <currencyId>RUR</currencyId>
         <categoryId>4</categoryId>
         <picture>https://odisov-context.github.io/yandex/vk.png</picture>
-        <description>Настройка таргетированной рекламы ВКонтакте для бизнеса Челябинска с рекламным бюджетом от 50 000 ₽. Работа с Look-alike аудиторией, ретаргетингом и креативами. Анализ и оптимизация.</description>
+        <description>Специалист по настройке таргетированной рекламы ВКонтакте для бизнеса Челябинска с рекламным бюджетом от 50 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -546,13 +546,13 @@
       <!-- Челябинск Telegram ADS -->
       <offer id="tg-ads-215">
 <set-ids>social,tg</set-ids>
-        <name>Алексей - реклама в Telegram ADS (Челябинск)</name>
-<url>https://odisov-context.ru/tg-ads</url>
+        <name>Алексей О.</name>
+<url>https://odisov-context.ru/tg-ads-215</url>
         <price>25000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
         <picture>https://odisov-context.github.io/yandex/telegram.png</picture>
-        <description>Настройка и ведение рекламных кампаний в телеграме для бизнеса Челябинска с рекламным бюджетом от 100 000 ₽. Таргет на тематические каналы и по интересам, работа с партнерскими сетями - посевы, нативный формат, аналитика эффективности.</description>
+        <description>Специалист по настройке и ведению рекламных кампаний в телеграме для бизнеса Челябинска с рекламным бюджетом от 100 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -571,13 +571,13 @@
       <!-- Самара Яндекс директ -->
       <offer id="yandex-direct-213">
 <set-ids>yandex</set-ids>
-        <name>Алексей - настройка Яндекс директ (Самара)</name>
-        <url>https://odisov-context.ru/yandex-direct</url>
+        <name>Алексей О.</name>
+        <url>https://odisov-context.ru/yandex-direct-213</url>
         <price>55000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <picture>https://odisov-context.github.io/yandex/yandex.png</picture>
-        <description>Профессиональная настройка контекстной рекламы в Яндекс директе для бизнеса Самары с рекламным бюджетом от 100 000 ₽. Полный цикл работ: от создания объявлений до аналитики и оптимизации. Кейсы</description>
+        <description>Специалист по настройке контекстной рекламы в Яндекс директе для бизнеса Самары с рекламным бюджетом от 100 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -596,13 +596,13 @@
       <!-- Самара ВКонтакте -->
       <offer id="vk-target-214">
 <set-ids>social,vk</set-ids>
-        <name>Алексей - таргетированная реклама ВКонтакте (Самара)</name>
-<url>https://odisov-context.ru/vk-target</url>
+        <name>Алексей О.</name>
+<url>https://odisov-context.ru/vk-target-214</url>
         <price>35000</price>
         <currencyId>RUR</currencyId>
         <categoryId>4</categoryId>
         <picture>https://odisov-context.github.io/yandex/vk.png</picture>
-        <description>Настройка таргетированной рекламы ВКонтакте для бизнеса Самары с рекламным бюджетом от 50 000 ₽. Работа с Look-alike аудиторией, ретаргетингом и креативами. Анализ и оптимизация.</description>
+        <description>Специалист по настройке таргетированной рекламы ВКонтакте для бизнеса Самары с рекламным бюджетом от 50 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -621,13 +621,13 @@
       <!-- Самара Telegram ADS -->
       <offer id="tg-ads-215">
 <set-ids>social,tg</set-ids>
-        <name>Алексей - реклама в Telegram ADS (Самара)</name>
-<url>https://odisov-context.ru/tg-ads</url>
+        <name>Алексей О.</name>
+<url>https://odisov-context.ru/tg-ads-215</url>
         <price>25000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
         <picture>https://odisov-context.github.io/yandex/telegram.png</picture>
-        <description>Настройка и ведение рекламных кампаний в телеграме для бизнеса Самары с рекламным бюджетом от 100 000 ₽. Таргет на тематические каналы и по интересам, работа с партнерскими сетями - посевы, нативный формат, аналитика эффективности.</description>
+        <description>Специалист по настройке и ведению рекламных кампаний в телеграме для бизнеса Самары с рекламным бюджетом от 100 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -646,13 +646,13 @@
       <!-- Омск Яндекс директ -->
       <offer id="yandex-direct-213">
 <set-ids>yandex</set-ids>
-        <name>Алексей - настройка Яндекс директ (Омск)</name>
-        <url>https://odisov-context.ru/yandex-direct</url>
+        <name>Алексей О.</name>
+        <url>https://odisov-context.ru/yandex-direct-213</url>
         <price>55000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <picture>https://odisov-context.github.io/yandex/yandex.png</picture>
-        <description>Профессиональная настройка контекстной рекламы в Яндекс директе для бизнеса Омска с рекламным бюджетом от 100 000 ₽. Полный цикл работ: от создания объявлений до аналитики и оптимизации. Кейсы</description>
+        <description>Специалист по настройке контекстной рекламы в Яндекс директе для бизнеса Омска с рекламным бюджетом от 100 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -671,13 +671,13 @@
       <!-- Омск ВКонтакте -->
       <offer id="vk-target-214">
 <set-ids>social,vk</set-ids>
-        <name>Алексей - таргетированная реклама ВКонтакте (Омск)</name>
-<url>https://odisov-context.ru/vk-target</url>
+        <name>Алексей О.</name>
+<url>https://odisov-context.ru/vk-target-214</url>
         <price>35000</price>
         <currencyId>RUR</currencyId>
         <categoryId>4</categoryId>
         <picture>https://odisov-context.github.io/yandex/vk.png</picture>
-        <description>Настройка таргетированной рекламы ВКонтакте для бизнеса Омска с рекламным бюджетом от 50 000 ₽. Работа с Look-alike аудиторией, ретаргетингом и креативами. Анализ и оптимизация.</description>
+        <description>Специалист по настройке таргетированной рекламы ВКонтакте для бизнеса Омска с рекламным бюджетом от 50 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -696,13 +696,13 @@
       <!-- Омск Telegram ADS -->
       <offer id="tg-ads-215">
 <set-ids>social,tg</set-ids>
-        <name>Алексей - реклама в Telegram ADS (Омск)</name>
-<url>https://odisov-context.ru/tg-ads</url>
+        <name>Алексей О.</name>
+<url>https://odisov-context.ru/tg-ads-215</url>
         <price>25000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
         <picture>https://odisov-context.github.io/yandex/telegram.png</picture>
-        <description>Настройка и ведение рекламных кампаний в телеграме для бизнеса Омска с рекламным бюджетом от 100 000 ₽. Таргет на тематические каналы и по интересам, работа с партнерскими сетями - посевы, нативный формат, аналитика эффективности.</description>
+        <description>Специалист по настройке и ведению рекламных кампаний в телеграме для бизнеса Омска с рекламным бюджетом от 100 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -721,13 +721,13 @@
       <!-- Ростов на Дону Яндекс директ -->
       <offer id="yandex-direct-213">
 <set-ids>yandex</set-ids>
-        <name>Алексей - настройка Яндекс директ (Ростов-на-Дону)</name>
-        <url>https://odisov-context.ru/yandex-direct</url>
+        <name>Алексей О.</name>
+        <url>https://odisov-context.ru/yandex-direct-213</url>
         <price>55000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <picture>https://odisov-context.github.io/yandex/yandex.png</picture>
-        <description>Профессиональная настройка контекстной рекламы в Яндекс директе для бизнеса Ростова на Дону с рекламным бюджетом от 100 000 ₽. Полный цикл работ: от создания объявлений до аналитики и оптимизации. Кейсы</description>
+        <description>Специалист по настройке контекстной рекламы в Яндекс директе для бизнеса Ростова на Дону с рекламным бюджетом от 100 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -746,13 +746,13 @@
       <!-- Ростов на Дону ВКонтакте -->
       <offer id="vk-target-214">
 <set-ids>social,vk</set-ids>
-        <name>Алексей - таргетированная реклама ВКонтакте (Ростов-на-Дону)</name>
-<url>https://odisov-context.ru/vk-target</url>
+        <name>Алексей О.</name>
+<url>https://odisov-context.ru/vk-target-214</url>
         <price>35000</price>
         <currencyId>RUR</currencyId>
         <categoryId>4</categoryId>
         <picture>https://odisov-context.github.io/yandex/vk.png</picture>
-        <description>Настройка таргетированной рекламы ВКонтакте для бизнеса Ростова на Дону с рекламным бюджетом от 50 000 ₽. Работа с Look-alike аудиторией, ретаргетингом и креативами. Анализ и оптимизация.</description>
+        <description>Специалист по настройке таргетированной рекламы ВКонтакте для бизнеса Ростова на Дону с рекламным бюджетом от 50 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -771,13 +771,13 @@
       <!-- Ростов на Дону Telegram ADS -->
       <offer id="tg-ads-215">
 <set-ids>social,tg</set-ids>
-        <name>Алексей - реклама в Telegram ADS (Ростов-на-Дону)</name>
-<url>https://odisov-context.ru/tg-ads</url>
+        <name>Алексей О.</name>
+<url>https://odisov-context.ru/tg-ads-215</url>
         <price>25000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
         <picture>https://odisov-context.github.io/yandex/telegram.png</picture>
-        <description>Настройка и ведение рекламных кампаний в телеграме для бизнеса Ростова на Дону с рекламным бюджетом от 100 000 ₽. Таргет на тематические каналы и по интересам, работа с партнерскими сетями - посевы, нативный формат, аналитика эффективности.</description>
+        <description>Специалист по настройке и ведению рекламных кампаний в телеграме для бизнеса Ростова на Дону с рекламным бюджетом от 100 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -796,13 +796,13 @@
       <!-- Уфа Яндекс директ -->
       <offer id="yandex-direct-213">
 <set-ids>yandex</set-ids>
-        <name>Алексей - настройка Яндекс директ (Уфа)</name>
-        <url>https://odisov-context.ru/yandex-direct</url>
+        <name>Алексей О.</name>
+        <url>https://odisov-context.ru/yandex-direct-213</url>
         <price>55000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <picture>https://odisov-context.github.io/yandex/yandex.png</picture>
-        <description>Профессиональная настройка контекстной рекламы в Яндекс директе для бизнеса Уфы с рекламным бюджетом от 100 000 ₽. Полный цикл работ: от создания объявлений до аналитики и оптимизации. Кейсы</description>
+        <description>Специалист по настройке контекстной рекламы в Яндекс директе для бизнеса Уфы с рекламным бюджетом от 100 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -821,13 +821,13 @@
       <!-- Уфа ВКонтакте -->
       <offer id="vk-target-214">
 <set-ids>social,vk</set-ids>
-        <name>Алексей - таргетированная реклама ВКонтакте (Уфа)</name>
-<url>https://odisov-context.ru/vk-target</url>
+        <name>Алексей О.</name>
+<url>https://odisov-context.ru/vk-target-214</url>
         <price>35000</price>
         <currencyId>RUR</currencyId>
         <categoryId>4</categoryId>
         <picture>https://odisov-context.github.io/yandex/vk.png</picture>
-        <description>Настройка таргетированной рекламы ВКонтакте для бизнеса Уфы с рекламным бюджетом от 50 000 ₽. Работа с Look-alike аудиторией, ретаргетингом и креативами. Анализ и оптимизация.</description>
+        <description>Специалист по настройке таргетированной рекламы ВКонтакте для бизнеса Уфы с рекламным бюджетом от 50 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -846,13 +846,13 @@
       <!-- Уфа Telegram ADS -->
       <offer id="tg-ads-215">
 <set-ids>social,tg</set-ids>
-        <name>Алексей - реклама в Telegram ADS (Уфа)</name>
-<url>https://odisov-context.ru/tg-ads</url>
+        <name>Алексей О.</name>
+<url>https://odisov-context.ru/tg-ads-215</url>
         <price>25000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
         <picture>https://odisov-context.github.io/yandex/telegram.png</picture>
-        <description>Настройка и ведение рекламных кампаний в телеграме для бизнеса Уфы с рекламным бюджетом от 100 000 ₽. Таргет на тематические каналы и по интересам, работа с партнерскими сетями - посевы, нативный формат, аналитика эффективности.</description>
+        <description>Специалист по настройке и ведению рекламных кампаний в телеграме для бизнеса Уфы с рекламным бюджетом от 100 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -871,13 +871,13 @@
       <!-- Красноярск Яндекс директ -->
       <offer id="yandex-direct-213">
 <set-ids>yandex</set-ids>
-        <name>Алексей - настройка Яндекс директ (Красноярск)</name>
-        <url>https://odisov-context.ru/yandex-direct</url>
+        <name>Алексей О.</name>
+        <url>https://odisov-context.ru/yandex-direct-213</url>
         <price>55000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <picture>https://odisov-context.github.io/yandex/yandex.png</picture>
-        <description>Профессиональная настройка контекстной рекламы в Яндекс директе для бизнеса Красноярска с рекламным бюджетом от 100 000 ₽. Полный цикл работ: от создания объявлений до аналитики и оптимизации. Кейсы</description>
+        <description>Специалист по настройке контекстной рекламы в Яндекс директе для бизнеса Красноярска с рекламным бюджетом от 100 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -896,13 +896,13 @@
       <!-- Красноярск ВКонтакте -->
       <offer id="vk-target-214">
 <set-ids>social,vk</set-ids>
-        <name>Алексей - таргетированная реклама ВКонтакте (Красноярск)</name>
-<url>https://odisov-context.ru/vk-target</url>
+        <name>Алексей О.</name>
+<url>https://odisov-context.ru/vk-target-214</url>
         <price>35000</price>
         <currencyId>RUR</currencyId>
         <categoryId>4</categoryId>
         <picture>https://odisov-context.github.io/yandex/vk.png</picture>
-        <description>Настройка таргетированной рекламы ВКонтакте для бизнеса Красноярска с рекламным бюджетом от 50 000 ₽. Работа с Look-alike аудиторией, ретаргетингом и креативами. Анализ и оптимизация.</description>
+        <description>Специалист по настройке таргетированной рекламы ВКонтакте для бизнеса Красноярска с рекламным бюджетом от 50 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -921,13 +921,13 @@
       <!-- Красноярск Telegram ADS -->
       <offer id="tg-ads-215">
 <set-ids>social,tg</set-ids>
-        <name>Алексей - реклама в Telegram ADS (Красноярск)</name>
-<url>https://odisov-context.ru/tg-ads</url>
+        <name>Алексей О.</name>
+<url>https://odisov-context.ru/tg-ads-215</url>
         <price>25000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
         <picture>https://odisov-context.github.io/yandex/telegram.png</picture>
-        <description>Настройка и ведение рекламных кампаний в телеграме для бизнеса Красноярска с рекламным бюджетом от 100 000 ₽. Таргет на тематические каналы и по интересам, работа с партнерскими сетями - посевы, нативный формат, аналитика эффективности.</description>
+        <description>Специалист по настройке и ведению рекламных кампаний в телеграме для бизнеса Красноярска с рекламным бюджетом от 100 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -946,13 +946,13 @@
       <!-- Пермь Яндекс директ -->
       <offer id="yandex-direct-213">
 <set-ids>yandex</set-ids>
-        <name>Алексей - настройка Яндекс директ (Пермь)</name>
-        <url>https://odisov-context.ru/yandex-direct</url>
+        <name>Алексей О.</name>
+        <url>https://odisov-context.ru/yandex-direct-213</url>
         <price>55000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <picture>https://odisov-context.github.io/yandex/yandex.png</picture>
-        <description>Профессиональная настройка контекстной рекламы в Яндекс директе для бизнеса Перми с рекламным бюджетом от 100 000 ₽. Полный цикл работ: от создания объявлений до аналитики и оптимизации. Кейсы</description>
+        <description>Специалист по настройке контекстной рекламы в Яндекс директе для бизнеса Перми с рекламным бюджетом от 100 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -971,13 +971,13 @@
       <!-- Пермь ВКонтакте -->
       <offer id="vk-target-214">
 <set-ids>social,vk</set-ids>
-        <name>Алексей - таргетированная реклама ВКонтакте (Пермь)</name>
-<url>https://odisov-context.ru/vk-target</url>
+        <name>Алексей О.</name>
+<url>https://odisov-context.ru/vk-target-214</url>
         <price>35000</price>
         <currencyId>RUR</currencyId>
         <categoryId>4</categoryId>
         <picture>https://odisov-context.github.io/yandex/vk.png</picture>
-        <description>Настройка таргетированной рекламы ВКонтакте для бизнеса Перми с рекламным бюджетом от 50 000 ₽. Работа с Look-alike аудиторией, ретаргетингом и креативами. Анализ и оптимизация.</description>
+        <description>Специалист по настройке таргетированной рекламы ВКонтакте для бизнеса Перми с рекламным бюджетом от 50 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -996,13 +996,13 @@
       <!-- Пермь Telegram ADS -->
       <offer id="tg-ads-215">
 <set-ids>social,tg</set-ids>
-        <name>Алексей - реклама в Telegram ADS (Пермь)</name>
-<url>https://odisov-context.ru/tg-ads</url>
+        <name>Алексей О.</name>
+<url>https://odisov-context.ru/tg-ads-215</url>
         <price>25000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
         <picture>https://odisov-context.github.io/yandex/telegram.png</picture>
-        <description>Настройка и ведение рекламных кампаний в телеграме для бизнеса Перми с рекламным бюджетом от 100 000 ₽. Таргет на тематические каналы и по интересам, работа с партнерскими сетями - посевы, нативный формат, аналитика эффективности.</description>
+        <description>Специалист по настройке и ведению рекламных кампаний в телеграме для бизнеса Перми с рекламным бюджетом от 100 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -1021,13 +1021,13 @@
       <!-- Воронеж Яндекс директ -->
       <offer id="yandex-direct-213">
 <set-ids>yandex</set-ids>
-        <name>Алексей - настройка Яндекс директ (Воронеж)</name>
-        <url>https://odisov-context.ru/yandex-direct</url>
+        <name>Алексей О.</name>
+        <url>https://odisov-context.ru/yandex-direct-213</url>
         <price>55000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <picture>https://odisov-context.github.io/yandex/yandex.png</picture>
-        <description>Профессиональная настройка контекстной рекламы в Яндекс директе для бизнеса Воронежа с рекламным бюджетом от 100 000 ₽. Полный цикл работ: от создания объявлений до аналитики и оптимизации. Кейсы</description>
+        <description>Специалист по настройке контекстной рекламы в Яндекс директе для бизнеса Воронежа с рекламным бюджетом от 100 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -1046,13 +1046,13 @@
       <!-- Воронеж ВКонтакте -->
       <offer id="vk-target-214">
 <set-ids>social,vk</set-ids>
-        <name>Алексей - таргетированная реклама ВКонтакте (Воронеж)</name>
-<url>https://odisov-context.ru/vk-target</url>
+        <name>Алексей О.</name>
+<url>https://odisov-context.ru/vk-target-214</url>
         <price>35000</price>
         <currencyId>RUR</currencyId>
         <categoryId>4</categoryId>
         <picture>https://odisov-context.github.io/yandex/vk.png</picture>
-        <description>Настройка таргетированной рекламы ВКонтакте для бизнеса Воронежа с рекламным бюджетом от 50 000 ₽. Работа с Look-alike аудиторией, ретаргетингом и креативами. Анализ и оптимизация.</description>
+        <description>Специалист по настройке таргетированной рекламы ВКонтакте для бизнеса Воронежа с рекламным бюджетом от 50 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -1071,13 +1071,13 @@
       <!-- Воронеж Telegram ADS -->
       <offer id="tg-ads-215">
 <set-ids>social,tg</set-ids>
-        <name>Алексей - реклама в Telegram ADS (Воронеж)</name>
-<url>https://odisov-context.ru/tg-ads</url>
+        <name>Алексей О.</name>
+<url>https://odisov-context.ru/tg-ads-215</url>
         <price>25000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
         <picture>https://odisov-context.github.io/yandex/telegram.png</picture>
-        <description>Настройка и ведение рекламных кампаний в телеграме для бизнеса Воронежа с рекламным бюджетом от 100 000 ₽. Таргет на тематические каналы и по интересам, работа с партнерскими сетями - посевы, нативный формат, аналитика эффективности.</description>
+        <description>Специалист по настройке и ведению рекламных кампаний в телеграме для бизнеса Воронежа с рекламным бюджетом от 100 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -1096,13 +1096,13 @@
       <!-- Волгоград Яндекс директ -->
       <offer id="yandex-direct-213">
 <set-ids>yandex</set-ids>
-        <name>Алексей - настройка Яндекс директ (Волгоград)</name>
-        <url>https://odisov-context.ru/yandex-direct</url>
+        <name>Алексей О.</name>
+        <url>https://odisov-context.ru/yandex-direct-213</url>
         <price>55000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <picture>https://odisov-context.github.io/yandex/yandex.png</picture>
-        <description>Профессиональная настройка контекстной рекламы в Яндекс директе для бизнеса Волгограда с рекламным бюджетом от 100 000 ₽. Полный цикл работ: от создания объявлений до аналитики и оптимизации. Кейсы</description>
+        <description>Специалист по настройке контекстной рекламы в Яндекс директе для бизнеса Волгограда с рекламным бюджетом от 100 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -1121,13 +1121,13 @@
       <!-- Волгоград ВКонтакте -->
       <offer id="vk-target-214">
 <set-ids>social,vk</set-ids>
-        <name>Алексей - таргетированная реклама ВКонтакте (Волгоград)</name>
-<url>https://odisov-context.ru/vk-target</url>
+        <name>Алексей О.</name>
+<url>https://odisov-context.ru/vk-target-214</url>
         <price>35000</price>
         <currencyId>RUR</currencyId>
         <categoryId>4</categoryId>
         <picture>https://odisov-context.github.io/yandex/vk.png</picture>
-        <description>Настройка таргетированной рекламы ВКонтакте для бизнеса Волгограда с рекламным бюджетом от 50 000 ₽. Работа с Look-alike аудиторией, ретаргетингом и креативами. Анализ и оптимизация.</description>
+        <description>Специалист по настройке таргетированной рекламы ВКонтакте для бизнеса Волгограда с рекламным бюджетом от 50 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
@@ -1146,13 +1146,13 @@
       <!-- Волгоград Telegram ADS -->
       <offer id="tg-ads-215">
 <set-ids>social,tg</set-ids>
-        <name>Алексей - реклама в Telegram ADS (Волгоград)</name>
-<url>https://odisov-context.ru/tg-ads</url>
+        <name>Алексей О.</name>
+<url>https://odisov-context.ru/tg-ads-215</url>
         <price>25000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
         <picture>https://odisov-context.github.io/yandex/telegram.png</picture>
-        <description>Настройка и ведение рекламных кампаний в телеграме для бизнеса Волгограда с рекламным бюджетом от 100 000 ₽. Таргет на тематические каналы и по интересам, работа с партнерскими сетями - посевы, нативный формат, аналитика эффективности.</description>
+        <description>Специалист по настройке и ведению рекламных кампаний в телеграме для бизнеса Волгограда с рекламным бюджетом от 100 000 ₽</description>
         
         <param name="Исполнитель">Алексей</param>
         <param name="Должность">Специалист по контекстной и таргетированной рекламе</param>
