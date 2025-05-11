@@ -70,7 +70,7 @@
       <!-- ВКонтакте -->
       <offer id="vk-target-214">
 <set-ids>social,vk</set-ids>
-        <name>Алексей О.</name>
+        <name>Алексей Д.</name>
 <url>https://odisov-context.ru/vk-target-214</url>
         <price>35000</price>
         <currencyId>RUR</currencyId>
@@ -94,7 +94,7 @@
       <!-- Telegram ADS -->
       <offer id="tg-ads-215">
 <set-ids>social,tg</set-ids>
-        <name>Алексей О.</name>
+        <name>Алексей В.</name>
 <url>https://odisov-context.ru/tg-ads-215</url>
         <price>25000</price>
         <currencyId>RUR</currencyId>
