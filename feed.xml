@@ -40,6 +40,106 @@
     <name>Telegram ADS</name>
 <url>https://odisov-context.ru/tg-ads-215</url>
   </set>
+  <set id="yandex-search-216">
+    <name>Поисковая реклама Яндекс</name>
+    <url>https://odisov-context.ru/yandex-search-216</url>
+  </set>
+  <set id="yandex-rsy-217">
+    <name>Реклама в РСЯ (Рекламная сеть Яндекса)</name>
+    <url>https://odisov-context.ru/yandex-rsy-217</url>
+  </set>
+  <set id="yandex-retargeting-218">
+    <name>Ретаргетинг Яндекс</name>
+    <url>https://odisov-context.ru/yandex-retargeting-218</url>
+  </set>
+  <set id="yandex-dynamic-219">
+    <name>Динамические объявления Яндекс</name>
+    <url>https://odisov-context.ru/yandex-dynamic-219</url>
+  </set>
+  <set id="yandex-smart-banners-220">
+    <name>Смарт-баннеры Яндекс</name>
+    <url>https://odisov-context.ru/yandex-smart-banners-220</url>
+  </set>
+  <set id="yandex-geo-221">
+    <name>Геотаргетинг Яндекс</name>
+    <url>https://odisov-context.ru/yandex-geo-221</url>
+  </set>
+  <set id="yandex-apps-222">
+    <name>Реклама мобильных приложений Яндекс</name>
+    <url>https://odisov-context.ru/yandex-apps-222</url>
+  </set>
+  <set id="yandex-maps-223">
+    <name>Реклама на Яндекс.Картах</name>
+    <url>https://odisov-context.ru/yandex-maps-223</url>
+  </set>
+  <set id="yandex-dzen-224">
+    <name>Реклама в Яндекс.Дзене</name>
+    <url>https://odisov-context.ru/yandex-dzen-224</url>
+  </set>
+  <set id="vk-target-225">
+    <name>Таргетированная реклама ВКонтакте</name>
+    <url>https://odisov-context.ru/vk-target-225</url>
+  </set>
+  <set id="vk-retargeting-226">
+    <name>Ретаргетинг ВКонтакте</name>
+    <url>https://odisov-context.ru/vk-retargeting-226</url>
+  </set>
+  <set id="vk-stories-227">
+    <name>Реклама в историях ВКонтакте</name>
+    <url>https://odisov-context.ru/vk-stories-227</url>
+  </set>
+  <set id="vk-communities-228">
+    <name>Реклама в сообществах ВКонтакте</name>
+    <url>https://odisov-context.ru/vk-communities-228</url>
+  </set>
+  <set id="vk-feed-229">
+    <name>Реклама в ленте новостей ВКонтакте</name>
+    <url>https://odisov-context.ru/vk-feed-229</url>
+  </set>
+  <set id="vk-video-230">
+    <name>Реклама в видеороликах ВКонтакте</name>
+    <url>https://odisov-context.ru/vk-video-230</url>
+  </set>
+  <set id="vk-apps-231">
+    <name>Реклама для мобильных приложений ВКонтакте</name>
+    <url>https://odisov-context.ru/vk-apps-231</url>
+  </set>
+  <set id="vk-geo-232">
+    <name>Геотаргетинг ВКонтакте</name>
+    <url>https://odisov-context.ru/vk-geo-232</url>
+  </set>
+  <set id="vk-network-233">
+    <name>Реклама на внешних площадках через VK Рекламную сеть</name>
+    <url>https://odisov-context.ru/vk-network-233</url>
+  </set>
+  <set id="tg-channels-234">
+    <name>Реклама в Telegram-каналах</name>
+    <url>https://odisov-context.ru/tg-channels-234</url>
+  </set>
+  <set id="tg-bots-235">
+    <name>Реклама в Telegram-ботах</name>
+    <url>https://odisov-context.ru/tg-bots-235</url>
+  </set>
+  <set id="tg-chats-236">
+    <name>Реклама в чатах Telegram</name>
+    <url>https://odisov-context.ru/tg-chats-236</url>
+  </set>
+  <set id="tg-ads-237">
+    <name>Реклама через Telegram Ads (официальная)</name>
+    <url>https://odisov-context.ru/tg-ads-237</url>
+  </set>
+  <set id="tg-exchange-238">
+    <name>Реклама через биржи Telegram</name>
+    <url>https://odisov-context.ru/tg-exchange-238</url>
+  </set>
+  <set id="tg-geo-239">
+    <name>Геотаргетинг в Telegram</name>
+    <url>https://odisov-context.ru/tg-geo-239</url>
+  </set>
+  <set id="tg-apps-240">
+    <name>Реклама для мобильных приложений в Telegram</name>
+    <url>https://odisov-context.ru/tg-apps-240</url>
+  </set>
 </sets>
 
     <offers>
