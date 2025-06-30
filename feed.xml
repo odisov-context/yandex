@@ -2,7 +2,7 @@
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
 <yml_catalog date="2025-04-12 17:00">
   <shop>
-    <name>Специалист по рекламе Odisov Context</name>
+    <name>Контекстная и таргет реклама</name>
     <company>Odisov Context</company>
     <url>https://odisov-context.ru</url>
     <email>odis90@mail.ru</email>
@@ -29,15 +29,15 @@
   
   <!-- Индивидуальные наборы -->
   <set id="yandex">
-    <name>Яндекс директ</name>
+    <name>Реклама в яндекс директ</name>
 <url>https://odisov-context.ru/yandex-direct-213</url>
   </set>
   <set id="vk">
-    <name>ВКонтакте</name>
+    <name>Реклама ВКонтакте</name>
 <url>https://odisov-context.ru/vk-target-214</url>
   </set>
   <set id="tg">
-    <name>Telegram ADS</name>
+    <name>Рекламные посевы в Telegram</name>
 <url>https://odisov-context.ru/tg-ads-215</url>
   </set>
   <set id="yandex-search-216">
@@ -78,7 +78,7 @@
   </set>
   <set id="vk-target-225">
     <name>Таргетированная реклама ВКонтакте</name>
-    <url>https://odisov-context.ru/vk-target-225</url>
+    <url>https://odisov-context.ru/vk-adv-225</url>
   </set>
   <set id="vk-retargeting-226">
     <name>Ретаргетинг ВКонтакте</name>
@@ -126,7 +126,7 @@
   </set>
   <set id="tg-ads-237">
     <name>Реклама через Telegram Ads (официальная)</name>
-    <url>https://odisov-context.ru/tg-ads-237</url>
+    <url>https://odisov-context.ru/tg-adv-237</url>
   </set>
   <set id="tg-exchange-238">
     <name>Реклама через биржи Telegram</name>
