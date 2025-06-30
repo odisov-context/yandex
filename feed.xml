@@ -125,7 +125,7 @@
     <url>https://odisov-context.ru/tg-chats-236</url>
   </set>
   <set id="tg-ads-237">
-    <name>Реклама через Telegram Ads (официальная)</name>
+    <name>Реклама в Telegram Ads</name>
     <url>https://odisov-context.ru/tg-adv-237</url>
   </set>
   <set id="tg-exchange-238">
@@ -137,7 +137,7 @@
     <url>https://odisov-context.ru/tg-geo-239</url>
   </set>
   <set id="tg-apps-240">
-    <name>Реклама для мобильных приложений в Telegram</name>
+    <name>Реклама мобильных приложений в Telegram</name>
     <url>https://odisov-context.ru/tg-apps-240</url>
   </set>
 </sets>
@@ -207,6 +207,557 @@
         <param name="Годы опыта">3</param>
         <param name="Рейтинг">4.9</param>
         <param name="Число отзывов">2</param>
+        <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
+        <param name="Оплата">Безналичный расчет</param>
+        <param name="Договор">Официальный договор</param>
+        <param name="Конверсия">4.0</param>
+        <param name="Email">odis90@mail.ru</param>
+        <param name="Регион">Россия</param>
+      </offer>
+
+      <!-- Поисковая реклама Яндекс -->
+      <offer id="yandex-search-216">
+        <set-ids>yandex-search-216</set-ids>
+        <name>Алексей Яндекс Поиск</name>
+        <url>https://odisov-context.ru/yandex-search-216</url>
+        <price>50000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://odisov-context.github.io/yandex/yandex-search.png</picture>
+        <description>Настройка поисковой рекламы Яндекс для вашего бизнеса. Эффективное привлечение клиентов через поисковые кампании.</description>
+        <param name="Исполнитель">Алексей</param>
+        <param name="Должность">Эксперт по интернет-рекламе</param>
+        <param name="Годы опыта">8</param>
+        <param name="Рейтинг">5.0</param>
+        <param name="Число отзывов">10</param>
+        <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
+        <param name="Оплата">Безналичный расчет</param>
+        <param name="Договор">Официальный договор</param>
+        <param name="Конверсия">4.0</param>
+        <param name="Email">odis90@mail.ru</param>
+        <param name="Регион">Россия</param>
+      </offer>
+      <!-- Реклама в РСЯ -->
+      <offer id="yandex-rsy-217">
+        <set-ids>yandex-rsy-217</set-ids>
+        <name>Алексей Яндекс РСЯ</name>
+        <url>https://odisov-context.ru/yandex-rsy-217</url>
+        <price>48000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://odisov-context.github.io/yandex/yandex-rsy.png</picture>
+        <description>Реклама в Рекламной сети Яндекса (РСЯ) для увеличения охвата и привлечения новых клиентов.</description>
+        <param name="Исполнитель">Алексей</param>
+        <param name="Должность">Эксперт по интернет-рекламе</param>
+        <param name="Годы опыта">8</param>
+        <param name="Рейтинг">5.0</param>
+        <param name="Число отзывов">10</param>
+        <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
+        <param name="Оплата">Безналичный расчет</param>
+        <param name="Договор">Официальный договор</param>
+        <param name="Конверсия">4.0</param>
+        <param name="Email">odis90@mail.ru</param>
+        <param name="Регион">Россия</param>
+      </offer>
+      <!-- Ретаргетинг Яндекс -->
+      <offer id="yandex-retargeting-218">
+        <set-ids>yandex-retargeting-218</set-ids>
+        <name>Алексей Яндекс Ретаргетинг</name>
+        <url>https://odisov-context.ru/yandex-retargeting-218</url>
+        <price>47000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://odisov-context.github.io/yandex/yandex-retargeting.png</picture>
+        <description>Настройка ретаргетинга в Яндекс для возврата посетителей и повышения конверсии.</description>
+        <param name="Исполнитель">Алексей</param>
+        <param name="Должность">Эксперт по интернет-рекламе</param>
+        <param name="Годы опыта">8</param>
+        <param name="Рейтинг">5.0</param>
+        <param name="Число отзывов">10</param>
+        <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
+        <param name="Оплата">Безналичный расчет</param>
+        <param name="Договор">Официальный договор</param>
+        <param name="Конверсия">4.0</param>
+        <param name="Email">odis90@mail.ru</param>
+        <param name="Регион">Россия</param>
+      </offer>
+      <!-- Динамические объявления Яндекс -->
+      <offer id="yandex-dynamic-219">
+        <set-ids>yandex-dynamic-219</set-ids>
+        <name>Алексей Яндекс Динамика</name>
+        <url>https://odisov-context.ru/yandex-dynamic-219</url>
+        <price>46000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://odisov-context.github.io/yandex/yandex-dynamic.png</picture>
+        <description>Динамические объявления Яндекс для автоматизации рекламы и увеличения охвата.</description>
+        <param name="Исполнитель">Алексей</param>
+        <param name="Должность">Эксперт по интернет-рекламе</param>
+        <param name="Годы опыта">8</param>
+        <param name="Рейтинг">5.0</param>
+        <param name="Число отзывов">10</param>
+        <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
+        <param name="Оплата">Безналичный расчет</param>
+        <param name="Договор">Официальный договор</param>
+        <param name="Конверсия">4.0</param>
+        <param name="Email">odis90@mail.ru</param>
+        <param name="Регион">Россия</param>
+      </offer>
+      <!-- Смарт-баннеры Яндекс -->
+      <offer id="yandex-smart-banners-220">
+        <set-ids>yandex-smart-banners-220</set-ids>
+        <name>Алексей Яндекс Смарт-баннеры</name>
+        <url>https://odisov-context.ru/yandex-smart-banners-220</url>
+        <price>45500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://odisov-context.github.io/yandex/yandex-smart-banners.png</picture>
+        <description>Настройка смарт-баннеров Яндекс для автоматического продвижения товаров и услуг.</description>
+        <param name="Исполнитель">Алексей</param>
+        <param name="Должность">Эксперт по интернет-рекламе</param>
+        <param name="Годы опыта">8</param>
+        <param name="Рейтинг">5.0</param>
+        <param name="Число отзывов">10</param>
+        <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
+        <param name="Оплата">Безналичный расчет</param>
+        <param name="Договор">Официальный договор</param>
+        <param name="Конверсия">4.0</param>
+        <param name="Email">odis90@mail.ru</param>
+        <param name="Регион">Россия</param>
+      </offer>
+      <!-- Геотаргетинг Яндекс -->
+      <offer id="yandex-geo-221">
+        <set-ids>yandex-geo-221</set-ids>
+        <name>Алексей Яндекс Гео</name>
+        <url>https://odisov-context.ru/yandex-geo-221</url>
+        <price>45000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://odisov-context.github.io/yandex/yandex-geo.png</picture>
+        <description>Геотаргетинг Яндекс для привлечения клиентов из нужных регионов.</description>
+        <param name="Исполнитель">Алексей</param>
+        <param name="Должность">Эксперт по интернет-рекламе</param>
+        <param name="Годы опыта">8</param>
+        <param name="Рейтинг">5.0</param>
+        <param name="Число отзывов">10</param>
+        <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
+        <param name="Оплата">Безналичный расчет</param>
+        <param name="Договор">Официальный договор</param>
+        <param name="Конверсия">4.0</param>
+        <param name="Email">odis90@mail.ru</param>
+        <param name="Регион">Россия</param>
+      </offer>
+      <!-- Реклама мобильных приложений Яндекс -->
+      <offer id="yandex-apps-222">
+        <set-ids>yandex-apps-222</set-ids>
+        <name>Алексей Яндекс Приложения</name>
+        <url>https://odisov-context.ru/yandex-apps-222</url>
+        <price>44000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://odisov-context.github.io/yandex/yandex-apps.png</picture>
+        <description>Реклама мобильных приложений в Яндекс для увеличения установок и вовлечения пользователей.</description>
+        <param name="Исполнитель">Алексей</param>
+        <param name="Должность">Эксперт по интернет-рекламе</param>
+        <param name="Годы опыта">8</param>
+        <param name="Рейтинг">5.0</param>
+        <param name="Число отзывов">10</param>
+        <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
+        <param name="Оплата">Безналичный расчет</param>
+        <param name="Договор">Официальный договор</param>
+        <param name="Конверсия">4.0</param>
+        <param name="Email">odis90@mail.ru</param>
+        <param name="Регион">Россия</param>
+      </offer>
+      <!-- Реклама на Яндекс.Картах -->
+      <offer id="yandex-maps-223">
+        <set-ids>yandex-maps-223</set-ids>
+        <name>Алексей Яндекс Карты</name>
+        <url>https://odisov-context.ru/yandex-maps-223</url>
+        <price>43000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://odisov-context.github.io/yandex/yandex-maps.png</picture>
+        <description>Реклама на Яндекс.Картах для привлечения локальных клиентов.</description>
+        <param name="Исполнитель">Алексей</param>
+        <param name="Должность">Эксперт по интернет-рекламе</param>
+        <param name="Годы опыта">8</param>
+        <param name="Рейтинг">5.0</param>
+        <param name="Число отзывов">10</param>
+        <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
+        <param name="Оплата">Безналичный расчет</param>
+        <param name="Договор">Официальный договор</param>
+        <param name="Конверсия">4.0</param>
+        <param name="Email">odis90@mail.ru</param>
+        <param name="Регион">Россия</param>
+      </offer>
+      <!-- Реклама в Яндекс.Дзене -->
+      <offer id="yandex-dzen-224">
+        <set-ids>yandex-dzen-224</set-ids>
+        <name>Алексей Яндекс Дзен</name>
+        <url>https://odisov-context.ru/yandex-dzen-224</url>
+        <price>42000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://odisov-context.github.io/yandex/yandex-dzen.png</picture>
+        <description>Реклама в Яндекс.Дзене для продвижения контента и привлечения аудитории.</description>
+        <param name="Исполнитель">Алексей</param>
+        <param name="Должность">Эксперт по интернет-рекламе</param>
+        <param name="Годы опыта">8</param>
+        <param name="Рейтинг">5.0</param>
+        <param name="Число отзывов">10</param>
+        <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
+        <param name="Оплата">Безналичный расчет</param>
+        <param name="Договор">Официальный договор</param>
+        <param name="Конверсия">4.0</param>
+        <param name="Email">odis90@mail.ru</param>
+        <param name="Регион">Россия</param>
+      </offer>
+      <!-- Таргетированная реклама ВКонтакте -->
+      <offer id="vk-target-225">
+        <set-ids>vk-target-225</set-ids>
+        <name>Алексей VK Таргет</name>
+        <url>https://odisov-context.ru/vk-adv-225</url>
+        <price>35000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://odisov-context.github.io/yandex/vk-target.png</picture>
+        <description>Таргетированная реклама ВКонтакте для привлечения целевой аудитории.</description>
+        <param name="Исполнитель">Алексей</param>
+        <param name="Должность">Эксперт по интернет-рекламе</param>
+        <param name="Годы опыта">8</param>
+        <param name="Рейтинг">5.0</param>
+        <param name="Число отзывов">10</param>
+        <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
+        <param name="Оплата">Безналичный расчет</param>
+        <param name="Договор">Официальный договор</param>
+        <param name="Конверсия">4.0</param>
+        <param name="Email">odis90@mail.ru</param>
+        <param name="Регион">Россия</param>
+      </offer>
+      <!-- Ретаргетинг ВКонтакте -->
+      <offer id="vk-retargeting-226">
+        <set-ids>vk-retargeting-226</set-ids>
+        <name>Алексей VK Ретаргетинг</name>
+        <url>https://odisov-context.ru/vk-retargeting-226</url>
+        <price>34000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://odisov-context.github.io/yandex/vk-retargeting.png</picture>
+        <description>Ретаргетинг ВКонтакте для возврата заинтересованных пользователей.</description>
+        <param name="Исполнитель">Алексей</param>
+        <param name="Должность">Эксперт по интернет-рекламе</param>
+        <param name="Годы опыта">8</param>
+        <param name="Рейтинг">5.0</param>
+        <param name="Число отзывов">10</param>
+        <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
+        <param name="Оплата">Безналичный расчет</param>
+        <param name="Договор">Официальный договор</param>
+        <param name="Конверсия">4.0</param>
+        <param name="Email">odis90@mail.ru</param>
+        <param name="Регион">Россия</param>
+      </offer>
+      <!-- Реклама в историях ВКонтакте -->
+      <offer id="vk-stories-227">
+        <set-ids>vk-stories-227</set-ids>
+        <name>Алексей VK Истории</name>
+        <url>https://odisov-context.ru/vk-stories-227</url>
+        <price>33000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://odisov-context.github.io/yandex/vk-stories.png</picture>
+        <description>Реклама в историях ВКонтакте для вовлечения аудитории.</description>
+        <param name="Исполнитель">Алексей</param>
+        <param name="Должность">Эксперт по интернет-рекламе</param>
+        <param name="Годы опыта">8</param>
+        <param name="Рейтинг">5.0</param>
+        <param name="Число отзывов">10</param>
+        <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
+        <param name="Оплата">Безналичный расчет</param>
+        <param name="Договор">Официальный договор</param>
+        <param name="Конверсия">4.0</param>
+        <param name="Email">odis90@mail.ru</param>
+        <param name="Регион">Россия</param>
+      </offer>
+      <!-- Реклама в сообществах ВКонтакте -->
+      <offer id="vk-communities-228">
+        <set-ids>vk-communities-228</set-ids>
+        <name>Алексей VK Сообщества</name>
+        <url>https://odisov-context.ru/vk-communities-228</url>
+        <price>32000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://odisov-context.github.io/yandex/vk-communities.png</picture>
+        <description>Реклама в сообществах ВКонтакте для продвижения бренда.</description>
+        <param name="Исполнитель">Алексей</param>
+        <param name="Должность">Эксперт по интернет-рекламе</param>
+        <param name="Годы опыта">8</param>
+        <param name="Рейтинг">5.0</param>
+        <param name="Число отзывов">10</param>
+        <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
+        <param name="Оплата">Безналичный расчет</param>
+        <param name="Договор">Официальный договор</param>
+        <param name="Конверсия">4.0</param>
+        <param name="Email">odis90@mail.ru</param>
+        <param name="Регион">Россия</param>
+      </offer>
+      <!-- Реклама в ленте новостей ВКонтакте -->
+      <offer id="vk-feed-229">
+        <set-ids>vk-feed-229</set-ids>
+        <name>Алексей VK Лента</name>
+        <url>https://odisov-context.ru/vk-feed-229</url>
+        <price>31000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://odisov-context.github.io/yandex/vk-feed.png</picture>
+        <description>Реклама в ленте новостей ВКонтакте для охвата широкой аудитории.</description>
+        <param name="Исполнитель">Алексей</param>
+        <param name="Должность">Эксперт по интернет-рекламе</param>
+        <param name="Годы опыта">8</param>
+        <param name="Рейтинг">5.0</param>
+        <param name="Число отзывов">10</param>
+        <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
+        <param name="Оплата">Безналичный расчет</param>
+        <param name="Договор">Официальный договор</param>
+        <param name="Конверсия">4.0</param>
+        <param name="Email">odis90@mail.ru</param>
+        <param name="Регион">Россия</param>
+      </offer>
+      <!-- Реклама в видеороликах ВКонтакте -->
+      <offer id="vk-video-230">
+        <set-ids>vk-video-230</set-ids>
+        <name>Алексей VK Видео</name>
+        <url>https://odisov-context.ru/vk-video-230</url>
+        <price>30000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://odisov-context.github.io/yandex/vk-video.png</picture>
+        <description>Реклама в видеороликах ВКонтакте для креативного продвижения.</description>
+        <param name="Исполнитель">Алексей</param>
+        <param name="Должность">Эксперт по интернет-рекламе</param>
+        <param name="Годы опыта">8</param>
+        <param name="Рейтинг">5.0</param>
+        <param name="Число отзывов">10</param>
+        <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
+        <param name="Оплата">Безналичный расчет</param>
+        <param name="Договор">Официальный договор</param>
+        <param name="Конверсия">4.0</param>
+        <param name="Email">odis90@mail.ru</param>
+        <param name="Регион">Россия</param>
+      </offer>
+      <!-- Реклама для мобильных приложений ВКонтакте -->
+      <offer id="vk-apps-231">
+        <set-ids>vk-apps-231</set-ids>
+        <name>Алексей VK Приложения</name>
+        <url>https://odisov-context.ru/vk-apps-231</url>
+        <price>29500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://odisov-context.github.io/yandex/vk-apps.png</picture>
+        <description>Реклама мобильных приложений ВКонтакте для увеличения установок.</description>
+        <param name="Исполнитель">Алексей</param>
+        <param name="Должность">Эксперт по интернет-рекламе</param>
+        <param name="Годы опыта">8</param>
+        <param name="Рейтинг">5.0</param>
+        <param name="Число отзывов">10</param>
+        <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
+        <param name="Оплата">Безналичный расчет</param>
+        <param name="Договор">Официальный договор</param>
+        <param name="Конверсия">4.0</param>
+        <param name="Email">odis90@mail.ru</param>
+        <param name="Регион">Россия</param>
+      </offer>
+      <!-- Геотаргетинг ВКонтакте -->
+      <offer id="vk-geo-232">
+        <set-ids>vk-geo-232</set-ids>
+        <name>Алексей VK Гео</name>
+        <url>https://odisov-context.ru/vk-geo-232</url>
+        <price>29000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://odisov-context.github.io/yandex/vk-geo.png</picture>
+        <description>Геотаргетинг ВКонтакте для локального продвижения.</description>
+        <param name="Исполнитель">Алексей</param>
+        <param name="Должность">Эксперт по интернет-рекламе</param>
+        <param name="Годы опыта">8</param>
+        <param name="Рейтинг">5.0</param>
+        <param name="Число отзывов">10</param>
+        <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
+        <param name="Оплата">Безналичный расчет</param>
+        <param name="Договор">Официальный договор</param>
+        <param name="Конверсия">4.0</param>
+        <param name="Email">odis90@mail.ru</param>
+        <param name="Регион">Россия</param>
+      </offer>
+      <!-- Реклама на внешних площадках через VK Рекламную сеть -->
+      <offer id="vk-network-233">
+        <set-ids>vk-network-233</set-ids>
+        <name>Алексей VK Сеть</name>
+        <url>https://odisov-context.ru/vk-network-233</url>
+        <price>28500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://odisov-context.github.io/yandex/vk-network.png</picture>
+        <description>Реклама на внешних площадках через VK Рекламную сеть для расширения охвата.</description>
+        <param name="Исполнитель">Алексей</param>
+        <param name="Должность">Эксперт по интернет-рекламе</param>
+        <param name="Годы опыта">8</param>
+        <param name="Рейтинг">5.0</param>
+        <param name="Число отзывов">10</param>
+        <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
+        <param name="Оплата">Безналичный расчет</param>
+        <param name="Договор">Официальный договор</param>
+        <param name="Конверсия">4.0</param>
+        <param name="Email">odis90@mail.ru</param>
+        <param name="Регион">Россия</param>
+      </offer>
+      <!-- Реклама в Telegram-каналах -->
+      <offer id="tg-channels-234">
+        <set-ids>tg-channels-234</set-ids>
+        <name>Алексей TG Каналы</name>
+        <url>https://odisov-context.ru/tg-channels-234</url>
+        <price>27000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://odisov-context.github.io/yandex/tg-channels.png</picture>
+        <description>Реклама в Telegram-каналах для продвижения бизнеса и контента.</description>
+        <param name="Исполнитель">Алексей</param>
+        <param name="Должность">Эксперт по интернет-рекламе</param>
+        <param name="Годы опыта">8</param>
+        <param name="Рейтинг">5.0</param>
+        <param name="Число отзывов">10</param>
+        <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
+        <param name="Оплата">Безналичный расчет</param>
+        <param name="Договор">Официальный договор</param>
+        <param name="Конверсия">4.0</param>
+        <param name="Email">odis90@mail.ru</param>
+        <param name="Регион">Россия</param>
+      </offer>
+      <!-- Реклама в Telegram-ботах -->
+      <offer id="tg-bots-235">
+        <set-ids>tg-bots-235</set-ids>
+        <name>Алексей TG Боты</name>
+        <url>https://odisov-context.ru/tg-bots-235</url>
+        <price>26500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://odisov-context.github.io/yandex/tg-bots.png</picture>
+        <description>Реклама в Telegram-ботах для автоматизации взаимодействия с клиентами.</description>
+        <param name="Исполнитель">Алексей</param>
+        <param name="Должность">Эксперт по интернет-рекламе</param>
+        <param name="Годы опыта">8</param>
+        <param name="Рейтинг">5.0</param>
+        <param name="Число отзывов">10</param>
+        <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
+        <param name="Оплата">Безналичный расчет</param>
+        <param name="Договор">Официальный договор</param>
+        <param name="Конверсия">4.0</param>
+        <param name="Email">odis90@mail.ru</param>
+        <param name="Регион">Россия</param>
+      </offer>
+      <!-- Реклама в чатах Telegram -->
+      <offer id="tg-chats-236">
+        <set-ids>tg-chats-236</set-ids>
+        <name>Алексей TG Чаты</name>
+        <url>https://odisov-context.ru/tg-chats-236</url>
+        <price>26000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://odisov-context.github.io/yandex/tg-chats.png</picture>
+        <description>Реклама в чатах Telegram для активного вовлечения аудитории.</description>
+        <param name="Исполнитель">Алексей</param>
+        <param name="Должность">Эксперт по интернет-рекламе</param>
+        <param name="Годы опыта">8</param>
+        <param name="Рейтинг">5.0</param>
+        <param name="Число отзывов">10</param>
+        <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
+        <param name="Оплата">Безналичный расчет</param>
+        <param name="Договор">Официальный договор</param>
+        <param name="Конверсия">4.0</param>
+        <param name="Email">odis90@mail.ru</param>
+        <param name="Регион">Россия</param>
+      </offer>
+      <!-- Реклама через Telegram Ads (официальная) -->
+      <offer id="tg-ads-237">
+        <set-ids>tg-ads-237</set-ids>
+        <name>Алексей TG Ads</name>
+        <url>https://odisov-context.ru/tg-adv-237</url>
+        <price>25500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://odisov-context.github.io/yandex/tg-ads.png</picture>
+        <description>Реклама через Telegram Ads для официального продвижения.</description>
+        <param name="Исполнитель">Алексей</param>
+        <param name="Должность">Эксперт по интернет-рекламе</param>
+        <param name="Годы опыта">8</param>
+        <param name="Рейтинг">5.0</param>
+        <param name="Число отзывов">10</param>
+        <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
+        <param name="Оплата">Безналичный расчет</param>
+        <param name="Договор">Официальный договор</param>
+        <param name="Конверсия">4.0</param>
+        <param name="Email">odis90@mail.ru</param>
+        <param name="Регион">Россия</param>
+      </offer>
+      <!-- Реклама через биржи Telegram -->
+      <offer id="tg-exchange-238">
+        <set-ids>tg-exchange-238</set-ids>
+        <name>Алексей TG Биржи</name>
+        <url>https://odisov-context.ru/tg-exchange-238</url>
+        <price>25000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://odisov-context.github.io/yandex/tg-exchange.png</picture>
+        <description>Реклама через биржи Telegram для быстрого размещения объявлений.</description>
+        <param name="Исполнитель">Алексей</param>
+        <param name="Должность">Эксперт по интернет-рекламе</param>
+        <param name="Годы опыта">8</param>
+        <param name="Рейтинг">5.0</param>
+        <param name="Число отзывов">10</param>
+        <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
+        <param name="Оплата">Безналичный расчет</param>
+        <param name="Договор">Официальный договор</param>
+        <param name="Конверсия">4.0</param>
+        <param name="Email">odis90@mail.ru</param>
+        <param name="Регион">Россия</param>
+      </offer>
+      <!-- Геотаргетинг в Telegram -->
+      <offer id="tg-geo-239">
+        <set-ids>tg-geo-239</set-ids>
+        <name>Алексей TG Гео</name>
+        <url>https://odisov-context.ru/tg-geo-239</url>
+        <price>24500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://odisov-context.github.io/yandex/tg-geo.png</picture>
+        <description>Геотаргетинг в Telegram для локального продвижения.</description>
+        <param name="Исполнитель">Алексей</param>
+        <param name="Должность">Эксперт по интернет-рекламе</param>
+        <param name="Годы опыта">8</param>
+        <param name="Рейтинг">5.0</param>
+        <param name="Число отзывов">10</param>
+        <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
+        <param name="Оплата">Безналичный расчет</param>
+        <param name="Договор">Официальный договор</param>
+        <param name="Конверсия">4.0</param>
+        <param name="Email">odis90@mail.ru</param>
+        <param name="Регион">Россия</param>
+      </offer>
+      <!-- Реклама мобильных приложений в Telegram -->
+      <offer id="tg-apps-240">
+        <set-ids>tg-apps-240</set-ids>
+        <name>Алексей TG Приложения</name>
+        <url>https://odisov-context.ru/tg-apps-240</url>
+        <price>24000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://odisov-context.github.io/yandex/tg-apps.png</picture>
+        <description>Реклама мобильных приложений в Telegram для увеличения установок и вовлечения пользователей.</description>
+        <param name="Исполнитель">Алексей</param>
+        <param name="Должность">Эксперт по интернет-рекламе</param>
+        <param name="Годы опыта">8</param>
+        <param name="Рейтинг">5.0</param>
+        <param name="Число отзывов">10</param>
         <param name="Формат работы">Удаленно/Очно (по договоренности)</param>
         <param name="Оплата">Безналичный расчет</param>
         <param name="Договор">Официальный договор</param>
